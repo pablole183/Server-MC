@@ -95,3 +95,7 @@
 [30Nov2024 23:25:27.650] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24442 ms
 [30Nov2024 23:25:27.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.536s)! For help, type "help"
 [30Nov2024 23:25:27.667] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Nov2024 23:39:04.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:58182] logged in with entity id 272 at (138.5, 82.0, 25.5)
+[30Nov2024 23:39:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
+[30Nov2024 23:40:35.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Disconnected
+[30Nov2024 23:40:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
