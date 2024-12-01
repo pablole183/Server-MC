@@ -1,32 +1,32 @@
-[01Dec2024 01:41:19.624] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[01Dec2024 01:41:19.629] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[01Dec2024 01:41:20.434] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01Dec2024 01:41:20.484] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01Dec2024 01:41:20.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01Dec2024 01:41:20.767] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Dec2024 01:41:20.768] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Dec2024 01:41:20.769] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Dec2024 01:41:20.938] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-MC/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[01Dec2024 01:41:20.938] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[01Dec2024 01:41:22.561] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Dec2024 01:41:22.569] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[01Dec2024 01:41:22.637] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[01Dec2024 01:41:22.686] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Dec2024 01:41:22.780] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[01Dec2024 01:41:22.781] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Dec2024 01:41:22.792] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[01Dec2024 01:41:24.038] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[01Dec2024 01:41:26.521] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[01Dec2024 01:41:30.139] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfa000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[01Dec2024 01:41:30.960] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[01Dec2024 03:28:07.965] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01Dec2024 03:28:07.970] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[01Dec2024 03:28:08.409] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Dec2024 03:28:08.467] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Dec2024 03:28:08.815] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Dec2024 03:28:08.816] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Dec2024 03:28:08.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Dec2024 03:28:08.818] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Dec2024 03:28:08.980] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-MC/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[01Dec2024 03:28:08.981] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[01Dec2024 03:28:10.848] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Dec2024 03:28:10.870] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[01Dec2024 03:28:10.960] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[01Dec2024 03:28:11.016] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Dec2024 03:28:11.137] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[01Dec2024 03:28:11.138] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Dec2024 03:28:11.158] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Dec2024 03:28:12.527] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01Dec2024 03:28:14.538] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[01Dec2024 03:28:16.876] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfa000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[01Dec2024 03:28:17.703] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[01Dec2024 01:41:31.484] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[01Dec2024 01:41:31.485] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[01Dec2024 01:41:31.495] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[01Dec2024 01:41:31.496] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[01Dec2024 01:41:31.501] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[01Dec2024 01:41:31.541] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4364863 on thread Thread[#32,modloading-worker-0,5,main]
-[01Dec2024 01:41:31.551] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[01Dec2024 03:28:18.202] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[01Dec2024 03:28:18.202] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[01Dec2024 03:28:18.218] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[01Dec2024 03:28:18.218] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[01Dec2024 03:28:18.220] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[01Dec2024 03:28:18.245] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@a83495d on thread Thread[#31,modloading-worker-0,5,main]
+[01Dec2024 03:28:18.255] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -70,17 +70,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[01Dec2024 01:41:31.565] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[01Dec2024 01:41:31.906] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[01Dec2024 01:41:32.113] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[01Dec2024 01:41:32.289] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01Dec2024 01:41:32.292] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01Dec2024 01:41:35.560] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[01Dec2024 01:41:35.664] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[01Dec2024 01:41:35.666] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[01Dec2024 01:41:35.666] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[01Dec2024 01:41:35.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[01Dec2024 01:41:36.215] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[01Dec2024 03:28:18.256] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[01Dec2024 03:28:18.579] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[01Dec2024 03:28:18.854] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[01Dec2024 03:28:18.950] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Dec2024 03:28:18.950] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Dec2024 03:28:22.396] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[01Dec2024 03:28:22.486] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[01Dec2024 03:28:22.488] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[01Dec2024 03:28:22.488] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[01Dec2024 03:28:22.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[01Dec2024 03:28:23.127] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -95,22 +95,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[01Dec2024 01:41:36.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[01Dec2024 01:41:36.220] [main/INFO] [journeymap/]: Initializing Packet Registries
-[01Dec2024 01:41:36.246] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[01Dec2024 01:41:36.247] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[01Dec2024 01:41:36.247] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[01Dec2024 01:41:36.249] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[01Dec2024 01:41:36.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[01Dec2024 01:41:36.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[01Dec2024 01:41:36.328] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[01Dec2024 01:41:36.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
-[01Dec2024 01:41:36.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[01Dec2024 01:41:36.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
-[01Dec2024 01:41:36.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Dec2024 01:41:37.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[01Dec2024 01:41:37.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[01Dec2024 01:41:37.153] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[01Dec2024 03:28:23.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01Dec2024 03:28:23.131] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01Dec2024 03:28:23.150] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[01Dec2024 03:28:23.150] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[01Dec2024 03:28:23.150] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[01Dec2024 03:28:23.152] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[01Dec2024 03:28:23.195] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[01Dec2024 03:28:23.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[01Dec2024 03:28:23.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[01Dec2024 03:28:23.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
+[01Dec2024 03:28:23.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01Dec2024 03:28:23.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[01Dec2024 03:28:23.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Dec2024 03:28:24.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[01Dec2024 03:28:24.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[01Dec2024 03:28:24.038] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -125,919 +125,54 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[01Dec2024 01:41:38.731] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Dec2024 01:41:40.381] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[01Dec2024 01:41:40.382] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[01Dec2024 01:41:43.655] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[01Dec2024 01:41:43.793] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
-[01Dec2024 01:41:43.804] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[01Dec2024 01:41:43.810] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[01Dec2024 01:41:45.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01Dec2024 01:41:45.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Dec2024 01:41:45.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Dec2024 01:41:45.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Dec2024 01:41:45.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Dec2024 01:41:45.627] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Dec2024 01:41:45.703] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01Dec2024 01:41:45.703] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01Dec2024 01:41:45.703] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01Dec2024 01:41:45.703] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01Dec2024 01:41:45.718] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[01Dec2024 01:41:45.719] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[01Dec2024 01:41:45.785] [Server thread/INFO] [Framework/]: Loading server configs...
-[01Dec2024 01:41:45.798] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01Dec2024 01:41:45.798] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[01Dec2024 01:41:45.912] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01Dec2024 01:41:45.913] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01Dec2024 01:41:45.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Dec2024 01:41:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Dec2024 01:41:58.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.891] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.892] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.892] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.893] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.894] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.894] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.895] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:58.897] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:59.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Dec2024 01:41:59.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[01Dec2024 01:42:00.380] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[01Dec2024 01:42:00.840] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[01Dec2024 01:42:01.442] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[01Dec2024 01:42:01.843] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[01Dec2024 01:42:02.358] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[01Dec2024 01:42:02.888] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[01Dec2024 01:42:03.553] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[01Dec2024 01:42:03.843] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[01Dec2024 01:42:04.415] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[01Dec2024 01:42:04.961] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[01Dec2024 01:42:05.399] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[01Dec2024 01:42:05.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[01Dec2024 01:42:06.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[01Dec2024 01:42:06.847] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[01Dec2024 01:42:07.349] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[01Dec2024 01:42:07.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[01Dec2024 01:42:08.340] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
-[01Dec2024 01:42:08.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[01Dec2024 01:42:09.337] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[01Dec2024 01:42:09.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[01Dec2024 01:42:10.399] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[01Dec2024 01:42:10.852] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[01Dec2024 01:42:11.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
-[01Dec2024 01:42:11.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
-[01Dec2024 01:42:12.341] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[01Dec2024 01:42:12.824] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 17988 ms
-[01Dec2024 01:42:12.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.111s)! For help, type "help"
-[01Dec2024 01:42:12.863] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Dec2024 01:43:23.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b687b92[id=<null>,name=Pablo1818,properties={},legacy=false] (/100.111.11.103:65153) lost connection: Disconnected
-[01Dec2024 01:43:29.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:65154] logged in with entity id 196 at (-128.89874291749538, 77.0, 19.723131284057644)
-[01Dec2024 01:43:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[01Dec2024 01:43:52.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 9.252927376029703,4.124268165184802,0.2953003122646649
-[01Dec2024 01:43:59.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -2.2452786023212497,-9.835110384303889,0.38906187614573895
-[01Dec2024 01:44:14.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -0.08469108569947537,-10.35802604419591,-0.05055740967936373
-[01Dec2024 01:44:49.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131, l='ServerLevel[world]', x=-172.70, y=64.00, z=22.43] died, message: 'Villager was slain by Zombie'
-[01Dec2024 01:48:52.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fd04202[id=<null>,name=ImNajimiOwO,properties={},legacy=false] (/100.95.176.15:61337) lost connection: Disconnected
-[01Dec2024 01:51:36.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:61368] logged in with entity id 1701 at (4.5, 83.0, 9.5)
-[01Dec2024 01:51:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
-[01Dec2024 01:52:39.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 01:53:05.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[01Dec2024 01:56:04.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Stone Age]
-[01Dec2024 01:56:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Getting an Upgrade]
-[01Dec2024 01:59:16.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Alex's Caves]
-[01Dec2024 01:59:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Alex's Caves]
-[01Dec2024 01:59:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [It Belongs in a Museum]
-[01Dec2024 01:59:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Acquire Hardware]
-[01Dec2024 01:59:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Suit Up]
-[01Dec2024 02:00:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [It Belongs in a Museum]
-[01Dec2024 02:06:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Lorem Ipsum]
-[01Dec2024 02:07:21.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was slain by Zombie
-[01Dec2024 02:07:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:08:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Monster Hunter]
-[01Dec2024 02:09:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Monster Hunter]
-[01Dec2024 02:09:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:10:16.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Stone Age]
-[01Dec2024 02:12:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Isn't It Iron Pick]
-[01Dec2024 02:13:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
-[01Dec2024 02:13:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:15:05.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Acquire Hardware]
-[01Dec2024 02:15:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
-[01Dec2024 02:15:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 fell from a high place
-[01Dec2024 02:16:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Isn't It Iron Pick]
-[01Dec2024 02:16:52.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:19:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[01Dec2024 02:19:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[01Dec2024 02:19:21.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was blown up by Creeper
-[01Dec2024 02:19:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:21:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[01Dec2024 02:22:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[01Dec2024 02:22:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Not Today, Thank You]
-[01Dec2024 02:24:05.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[01Dec2024 02:24:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sneak 100]
-[01Dec2024 02:24:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sneak 100]
-[01Dec2024 02:25:52.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[01Dec2024 02:27:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
-[01Dec2024 02:28:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
-[01Dec2024 02:28:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[01Dec2024 02:29:09.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[01Dec2024 02:29:21.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[01Dec2024 02:29:56.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[01Dec2024 02:30:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:30:33.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was slain by Warden
-[01Dec2024 02:30:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:30:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
-[01Dec2024 02:31:33.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Cover Me in Debris]
-[01Dec2024 02:31:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Who is Cutting Onions?]
-[01Dec2024 02:31:57.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [You've Got a Friend in Me]
-[01Dec2024 02:31:57.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Dinner's Served!]
-[01Dec2024 02:31:57.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [With Our Powers Combined!]
-[01Dec2024 02:31:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Fronds Like These]
-[01Dec2024 02:31:57.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [We'll Meet Again]
-[01Dec2024 02:31:57.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Ruined Citadel]
-[01Dec2024 02:31:57.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Disturbing the Dead I]
-[01Dec2024 02:31:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Pure Imagination]
-[01Dec2024 02:31:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Wireless Network]
-[01Dec2024 02:31:57.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Secret Ingredient]
-[01Dec2024 02:31:57.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Life Finds A Way]
-[01Dec2024 02:31:57.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Big Brain™ Time]
-[01Dec2024 02:31:57.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The dead shall serve]
-[01Dec2024 02:31:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Smithing with Style]
-[01Dec2024 02:31:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hans Moleman]
-[01Dec2024 02:31:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Carbonated Swim]
-[01Dec2024 02:31:57.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Plant Food]
-[01Dec2024 02:31:57.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Captain Nemo]
-[01Dec2024 02:31:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Free the End]
-[01Dec2024 02:31:57.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [I Am Become Death]
-[01Dec2024 02:31:57.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Pseudo Archaeologist]
-[01Dec2024 02:31:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Glow and Behold!]
-[01Dec2024 02:31:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Into Darkness]
-[01Dec2024 02:31:57.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The End... of the Beginning]
-[01Dec2024 02:31:57.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bring Home the Beacon]
-[01Dec2024 02:31:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The (Cinnamon) Spice Must Flow]
-[01Dec2024 02:31:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Glow Sticks]
-[01Dec2024 02:31:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Chattering Teeth]
-[01Dec2024 02:31:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The Thing of Ancient Civilization]
-[01Dec2024 02:31:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Masquerade]
-[01Dec2024 02:31:57.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Come on and Slam]
-[01Dec2024 02:31:57.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [When the Squad Hops into Town]
-[01Dec2024 02:31:57.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [You're Coming With Me]
-[01Dec2024 02:31:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tree Stars!!!]
-[01Dec2024 02:31:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Just a Flesh Wound]
-[01Dec2024 02:31:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Time of the Titans]
-[01Dec2024 02:31:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Talking Walking Gummy Bear]
-[01Dec2024 02:31:57.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Didn't Make it on the Ark]
-[01Dec2024 02:31:57.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Local Brewery]
-[01Dec2024 02:31:57.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Magnets, How Do They Work?]
-[01Dec2024 02:31:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [The Next Generation]
-[01Dec2024 02:31:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Caniac No More]
-[01Dec2024 02:31:57.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Fishy Business]
-[01Dec2024 02:31:57.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [If You Can't Take the Heat...]
-[01Dec2024 02:31:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Lost in the Cells]
-[01Dec2024 02:31:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Hot Tourist Destinations]
-[01Dec2024 02:31:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Gaining Royal Powers]
-[01Dec2024 02:31:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Another Kind of Slime]
-[01Dec2024 02:31:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Dust, Sand and Bones]
-[01Dec2024 02:31:57.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Reality Glitch]
-[01Dec2024 02:31:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [This Boat Has Legs]
-[01Dec2024 02:31:57.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Publicity Stunt]
-[01Dec2024 02:31:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Three Eyes on Every Fish]
-[01Dec2024 02:31:57.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Buckets of Joy]
-[01Dec2024 02:31:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Great View From Up Here]
-[01Dec2024 02:31:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [WHAT DOES IT MEAN?!]
-[01Dec2024 02:31:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [How Did We Get Here?]
-[01Dec2024 02:31:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Bullseye]
-[01Dec2024 02:31:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Hope, Love, Dreams, and BEES!!!]
-[01Dec2024 02:31:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Spear Mint]
-[01Dec2024 02:31:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Prehistoric Elytra]
-[01Dec2024 02:31:57.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Ice Maze]
-[01Dec2024 02:31:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Sightbee-er]
-[01Dec2024 02:31:57.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Gravedigger]
-[01Dec2024 02:31:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hanging Tree]
-[01Dec2024 02:31:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Two Birds, One Arrow]
-[01Dec2024 02:31:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [We Need to Go Deeper]
-[01Dec2024 02:31:57.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Who's the Pillager Now?]
-[01Dec2024 02:31:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Staff of Nortoq'gul]
-[01Dec2024 02:31:57.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Corrodon't]
-[01Dec2024 02:31:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Run, Run as Fast as You Can]
-[01Dec2024 02:31:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Strictly Medicinal Purposes]
-[01Dec2024 02:31:57.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Honey Is Alive!]
-[01Dec2024 02:31:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Explosive Combination]
-[01Dec2024 02:31:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Boo! Hiss!]
-[01Dec2024 02:31:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Crops of the Wild]
-[01Dec2024 02:31:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Manual Intervention]
-[01Dec2024 02:31:57.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Seafood]
-[01Dec2024 02:31:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Divine Favor]
-[01Dec2024 02:31:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Well prepared]
-[01Dec2024 02:31:57.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Catching Flakes]
-[01Dec2024 02:31:57.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Into Fire]
-[01Dec2024 02:31:57.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [You Look Like a Good Joe]
-[01Dec2024 02:31:57.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Beginning of the End]
-[01Dec2024 02:31:57.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Dirty Return]
-[01Dec2024 02:31:57.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Take Aim]
-[01Dec2024 02:31:57.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The Dead Sea]
-[01Dec2024 02:31:57.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Total Beelocation]
-[01Dec2024 02:31:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Knives Out]
-[01Dec2024 02:31:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bonfire Lit]
-[01Dec2024 02:31:57.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Arbalistic]
-[01Dec2024 02:31:57.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Blood for the Blood God]
-[01Dec2024 02:31:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Nautical Neighbors]
-[01Dec2024 02:31:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Not Quite "Nine" Lives]
-[01Dec2024 02:31:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Cover Me with Diamonds]
-[01Dec2024 02:31:57.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Toxic Alloy]
-[01Dec2024 02:31:57.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bukkit Bukkit]
-[01Dec2024 02:31:57.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Wax Off]
-[01Dec2024 02:31:57.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Disturbing the Dead II]
-[01Dec2024 02:31:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Perfect Instance]
-[01Dec2024 02:31:57.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Over the Rainbow!]
-[01Dec2024 02:31:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Magic the Candling]
-[01Dec2024 02:31:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Hired Help]
-[01Dec2024 02:31:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Walking Dead]
-[01Dec2024 02:31:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Activated my trap candle!]
-[01Dec2024 02:31:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bee Collector]
-[01Dec2024 02:31:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [R.I.P. Yondu]
-[01Dec2024 02:31:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Corrupting the Paradise]
-[01Dec2024 02:31:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sweet Dreams]
-[01Dec2024 02:31:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Glorious Feast]
-[01Dec2024 02:31:57.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [You Need a Mint]
-[01Dec2024 02:31:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Ancient Civilization]
-[01Dec2024 02:31:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Brewing Danger]
-[01Dec2024 02:31:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Monsters Hunted]
-[01Dec2024 02:31:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Enchanter]
-[01Dec2024 02:31:57.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Voluntary Exile]
-[01Dec2024 02:31:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Broken Parts III]
-[01Dec2024 02:31:57.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Is It a Bird?]
-[01Dec2024 02:31:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Total Meltdown]
-[01Dec2024 02:31:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Almost Like a Fan]
-[01Dec2024 02:31:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Burning Arena]
-[01Dec2024 02:31:57.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Swaggy Meal Mommy Made It]
-[01Dec2024 02:31:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Staff of Mynakta'gul]
-[01Dec2024 02:31:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Demonslayer]
-[01Dec2024 02:31:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Postmortal]
-[01Dec2024 02:31:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Century Egg]
-[01Dec2024 02:31:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Mind over Magnet]
-[01Dec2024 02:31:57.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Birthday Song]
-[01Dec2024 02:31:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Whole Lot of Shaking Going On]
-[01Dec2024 02:31:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Is It a Plane?]
-[01Dec2024 02:31:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tiny Battle in a Block]
-[01Dec2024 02:31:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The Queen's Desire]
-[01Dec2024 02:31:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Uranium Fever]
-[01Dec2024 02:31:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Star Trader]
-[01Dec2024 02:31:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tis the Season]
-[01Dec2024 02:31:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Cyclops]
-[01Dec2024 02:31:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Wax On]
-[01Dec2024 02:31:57.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sound of Music]
-[01Dec2024 02:31:57.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Suspicious Looking Item]
-[01Dec2024 02:31:57.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Hero of the Village]
-[01Dec2024 02:31:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hidden in the Depths]
-[01Dec2024 02:31:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bullet Train]
-[01Dec2024 02:31:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [And I'm All Out of Gum]
-[01Dec2024 02:31:57.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Beaconator]
-[01Dec2024 02:31:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Staff of Zatraq'gul]
-[01Dec2024 02:31:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Find a Meaningless Animal]
-[01Dec2024 02:31:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Journey Begins]
-[01Dec2024 02:31:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [This is my Boomstick]
-[01Dec2024 02:31:57.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Wingin' It]
-[01Dec2024 02:31:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Got Lamps?]
-[01Dec2024 02:31:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [The Ray Cat Solution]
-[01Dec2024 02:31:57.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Folly of Man]
-[01Dec2024 02:31:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Shine!]
-[01Dec2024 02:31:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bee Our Guest]
-[01Dec2024 02:31:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [What a Deal!]
-[01Dec2024 02:31:57.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Is It a Balloon?]
-[01Dec2024 02:31:57.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Crafting a New Look]
-[01Dec2024 02:31:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Uneasy Alliance]
-[01Dec2024 02:31:57.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Yellow Brick Road]
-[01Dec2024 02:31:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [You're a Monster]
-[01Dec2024 02:31:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The One Who Knocks]
-[01Dec2024 02:31:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Rainbow Curtains!!!]
-[01Dec2024 02:31:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [You Monster...]
-[01Dec2024 02:31:57.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Crop Rotation]
-[01Dec2024 02:31:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Wrath of the Lich]
-[01Dec2024 02:31:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Floral Sharing]
-[01Dec2024 02:31:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [3.6 Roentgen]
-[01Dec2024 02:31:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Healing Power of Friendship!]
-[01Dec2024 02:31:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Cheating Chances!]
-[01Dec2024 02:31:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Personal Guardian]
-[01Dec2024 02:31:57.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Big Red Button]
-[01Dec2024 02:31:57.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Double Or Nothing!]
-[01Dec2024 02:31:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Slurp Up]
-[01Dec2024 02:31:57.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [An Understanding]
-[01Dec2024 02:31:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Throwaway Joke]
-[01Dec2024 02:31:57.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Radiation Vibe]
-[01Dec2024 02:31:57.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Danger: High Voltage]
-[01Dec2024 02:31:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Rude Awakening]
-[01Dec2024 02:31:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The All-Seeing]
-[01Dec2024 02:31:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sticky Situation]
-[01Dec2024 02:31:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [I Found the Coin Slot]
-[01Dec2024 02:31:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Destroy All Monsters]
-[01Dec2024 02:31:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Ol' Betsy]
-[01Dec2024 02:31:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Look Mom, No World Edit!]
-[01Dec2024 02:31:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Sweet Sweet Speeding Up]
-[01Dec2024 02:31:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [An Alloy To Remember]
-[01Dec2024 02:31:57.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Cover Me in Debris]
-[01Dec2024 02:31:57.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Gardener and the Bees]
-[01Dec2024 02:31:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [All Buddies Now]
-[01Dec2024 02:31:57.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [The Black Parade]
-[01Dec2024 02:31:57.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Parrots and the Bats]
-[01Dec2024 02:31:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [A Complete Catalogue]
-[01Dec2024 02:31:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [That is One Big Pile of...]
-[01Dec2024 02:31:57.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Solar Powered]
-[01Dec2024 02:31:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Welcome Back, Nether Reactor]
-[01Dec2024 02:31:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Oh Shiny]
-[01Dec2024 02:31:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Dark (Chocolate) Tower]
-[01Dec2024 02:31:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Dessert Power]
-[01Dec2024 02:31:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Destroyer of Worlds]
-[01Dec2024 02:31:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Blessings of Life]
-[01Dec2024 02:31:57.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Blood "Donation"]
-[01Dec2024 02:31:57.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Very Very Frightening]
-[01Dec2024 02:31:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hot Stuff]
-[01Dec2024 02:31:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Forlornliest Day of My Life]
-[01Dec2024 02:31:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Whatever Floats Your Goat!]
-[01Dec2024 02:31:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Cut the Red Wire]
-[01Dec2024 02:31:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Surge Protector]
-[01Dec2024 02:31:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Gassed Up]
-[01Dec2024 02:31:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [A Furious Cocktail]
-[01Dec2024 02:31:57.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Staff of Xaphnok'gul]
-[01Dec2024 02:31:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Royal Presence]
-[01Dec2024 02:31:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Best Friends Forever]
-[01Dec2024 02:31:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Heliomancer]
-[01Dec2024 02:31:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Careful Restoration]
-[01Dec2024 02:31:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Looking for the Moon]
-[01Dec2024 02:31:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Palette Swap]
-[01Dec2024 02:31:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Soul Forge]
-[01Dec2024 02:31:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Heart Of The Storm]
-[01Dec2024 02:31:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Shell City]
-[01Dec2024 02:31:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [King of Monsters]
-[01Dec2024 02:31:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [The Cave That Time Forgot]
-[01Dec2024 02:31:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Shelf Life]
-[01Dec2024 02:31:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Paint It Black]
-[01Dec2024 02:31:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Light In The Darkness]
-[01Dec2024 02:31:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Drink Offering]
-[01Dec2024 02:31:57.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Grand Hive Defender]
-[01Dec2024 02:31:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tastes Like Chicken]
-[01Dec2024 02:31:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Power Of The Sea]
-[01Dec2024 02:31:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Opposites Attract]
-[01Dec2024 02:31:57.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bedrock or Bust]
-[01Dec2024 02:31:57.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Those Aren't Balloons...]
-[01Dec2024 02:31:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [It Spreads]
-[01Dec2024 02:31:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Peace and Love]
-[01Dec2024 02:31:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Modern Art. It'll Never Last]
-[01Dec2024 02:31:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Worthless]
-[01Dec2024 02:31:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Caves & Cliffs]
-[01Dec2024 02:31:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Freaky Item]
-[01Dec2024 02:31:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Death finds a Way]
-[01Dec2024 02:31:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Sniper Duel]
-[01Dec2024 02:31:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Imperfect thing]
-[01Dec2024 02:31:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Where's Goopy?]
-[01Dec2024 02:31:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tech-It]
-[01Dec2024 02:31:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Easy like a Sundae Morning]
-[01Dec2024 02:31:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Shiny Found!]
-[01Dec2024 02:31:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Spooky Scary Skeleton]
-[01Dec2024 02:31:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Rainbows and Candicorns]
-[01Dec2024 02:31:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Two by Two]
-[01Dec2024 02:31:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Taking from the Dead]
-[01Dec2024 02:31:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Once Upon a Cave]
-[01Dec2024 02:31:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Teletor's Telecore]
-[01Dec2024 02:31:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Order of Dagon]
-[01Dec2024 02:31:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Smelly Situation]
-[01Dec2024 02:31:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Regal Friends Till The Very End!]
-[01Dec2024 02:31:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Speedy Buzzy Bees!]
-[01Dec2024 02:31:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Town of Bedrock]
-[01Dec2024 02:31:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Light as a Rabbit]
-[01Dec2024 02:31:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Lumberjackosaurus]
-[01Dec2024 02:31:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Master Chef]
-[01Dec2024 02:31:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Encino Man]
-[01Dec2024 02:31:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Tactical Fishing]
-[01Dec2024 02:31:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Three-Bolt Suit]
-[01Dec2024 02:31:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Respecting the Remnants]
-[01Dec2024 02:31:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [I Put a Spell on You]
-[01Dec2024 02:31:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Day at the Fair]
-[01Dec2024 02:31:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Unwrapped Candy]
-[01Dec2024 02:31:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Gummy Gumbo]
-[01Dec2024 02:31:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Zombie Doctor]
-[01Dec2024 02:31:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Turning the tables]
-[01Dec2024 02:31:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Peekaboo, I (still) see you!]
-[01Dec2024 02:31:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bath Bomb]
-[01Dec2024 02:31:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Little Sniffs]
-[01Dec2024 02:31:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Winning Favors]
-[01Dec2024 02:31:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The City at the End of the Game]
-[01Dec2024 02:31:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Ice Bucket Challenge]
-[01Dec2024 02:31:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Remote Getaway]
-[01Dec2024 02:31:57.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Iron, but dark]
-[01Dec2024 02:31:57.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Concentrated Toxins]
-[01Dec2024 02:31:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Rust-eze!]
-[01Dec2024 02:31:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Ancient Origins]
-[01Dec2024 02:31:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [War Pigs]
-[01Dec2024 02:31:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Crisis Adverted]
-[01Dec2024 02:31:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bring Forth The Mollusk]
-[01Dec2024 02:31:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Terrible Armor]
-[01Dec2024 02:31:57.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Cursed Island]
-[01Dec2024 02:31:57.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Life Saving Collection]
-[01Dec2024 02:31:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Gotta Hive a Dance!]
-[01Dec2024 02:31:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Broken Parts I]
-[01Dec2024 02:31:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [The End... Again...]
-[01Dec2024 02:31:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sunken City]
-[01Dec2024 02:31:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Stingy Delicacy]
-[01Dec2024 02:31:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Tyrant King]
-[01Dec2024 02:31:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Looks Like Emerald to Me]
-[01Dec2024 02:31:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Sky's the Limit]
-[01Dec2024 02:31:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [A Multidimensional Predator]
-[01Dec2024 02:31:57.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hot Rod]
-[01Dec2024 02:31:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Return to Sender]
-[01Dec2024 02:31:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Apocalypse-Proof]
-[01Dec2024 02:31:57.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Invitation to the Tea Party]
-[01Dec2024 02:31:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Stay dead]
-[01Dec2024 02:31:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [No Slime No Service]
-[01Dec2024 02:31:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Smells Interesting]
-[01Dec2024 02:31:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Eye Spy]
-[01Dec2024 02:31:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Walk Without Rhythm]
-[01Dec2024 02:31:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Bug Repellent]
-[01Dec2024 02:31:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Abyssal Armor]
-[01Dec2024 02:31:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Exploration]
-[01Dec2024 02:31:57.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The Bee Warrior Rises!]
-[01Dec2024 02:31:57.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Biome Reactors]
-[01Dec2024 02:31:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Call of the Ancients]
-[01Dec2024 02:31:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Serious Dedication]
-[01Dec2024 02:31:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Brains and Brawn]
-[01Dec2024 02:31:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Choc-o-Block]
-[01Dec2024 02:31:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Magnetron No More]
-[01Dec2024 02:31:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Was that a Shulker?]
-[01Dec2024 02:31:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Frosted Prison]
-[01Dec2024 02:31:57.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Beyond the Sea]
-[01Dec2024 02:31:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [God Slayer]
-[01Dec2024 02:31:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Spice Up Your Life]
-[01Dec2024 02:31:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The Extinguished Fire]
-[01Dec2024 02:31:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Greed]
-[01Dec2024 02:31:57.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Crusade Against Curse]
-[01Dec2024 02:31:57.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Masterful Collector]
-[01Dec2024 02:31:57.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Planting the Past]
-[01Dec2024 02:31:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Broken Parts II]
-[01Dec2024 02:31:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Adventuring Time]
-[01Dec2024 02:31:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [I Want To Believe]
-[01Dec2024 02:31:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Choosing Wisely]
-[01Dec2024 02:31:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Seedy Place]
-[01Dec2024 02:31:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Those Were the Days]
-[01Dec2024 02:31:57.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Cutest Predator]
-[01Dec2024 02:31:57.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Surface or Bust]
-[01Dec2024 02:31:57.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Praise the Sun]
-[01Dec2024 02:31:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hunt and Gather]
-[01Dec2024 02:31:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Eye Spy]
-[01Dec2024 02:31:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Feels Like Home]
-[01Dec2024 02:31:57.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Law of Club and Fang]
-[01Dec2024 02:31:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Who turned the lights off?]
-[01Dec2024 02:31:57.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Birds of a Feather]
-[01Dec2024 02:31:57.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Pass the Wasabi]
-[01Dec2024 02:31:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Withering Heights]
-[01Dec2024 02:31:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Blot Out The Sun]
-[01Dec2024 02:31:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [The broken Nether's warmachine]
-[01Dec2024 02:31:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [A Balanced Diet]
-[01Dec2024 02:31:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Buff Out Those Scratches]
-[01Dec2024 02:31:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Dinosaur Train]
-[01Dec2024 02:31:57.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Subspace Bubble]
-[01Dec2024 02:31:57.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Lighthouse in Your Eyes]
-[01Dec2024 02:31:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Journey's End]
-[01Dec2024 02:31:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Power of Books]
-[01Dec2024 02:31:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [THE OOOOOOOOZE]
-[01Dec2024 02:31:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Spear of Ages]
-[01Dec2024 02:31:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Jennifer Dumped Me]
-[01Dec2024 02:31:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Powers of Poseidon]
-[01Dec2024 02:31:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Abnormal Shrimp]
-[01Dec2024 02:31:57.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Country Lode, Take Me Home]
-[01Dec2024 02:31:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Oh Little Town of Gingerbread]
-[01Dec2024 02:31:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Diamonds!]
-[01Dec2024 02:31:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The Shadow Over Mine's Craft]
-[01Dec2024 02:31:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Re-Extinct]
-[01Dec2024 02:31:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Cursed Pyramid]
-[01Dec2024 02:31:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [A Terrible Fortress]
-[01Dec2024 02:31:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Sky Smackdown]
-[01Dec2024 02:31:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Clever Girl]
-[01Dec2024 02:31:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [no u]
-[01Dec2024 02:31:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Black Velvet]
-[01Dec2024 02:31:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Fashion Fad!]
-[01Dec2024 02:31:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Push and Pull]
-[01Dec2024 02:31:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Staff of Azrata'gul]
-[01Dec2024 02:31:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Beeography]
-[01Dec2024 02:31:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has completed the challenge [Unstoppable Anger]
-[01Dec2024 02:31:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Source of Evil]
-[01Dec2024 02:31:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Hooked on a Feeling]
-[01Dec2024 02:31:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Diamonds of the Sea]
-[01Dec2024 02:31:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Revive Me, I Have a Raygun]
-[01Dec2024 02:31:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [The End?]
-[01Dec2024 02:31:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has reached the goal [Not a Fan of the Red Flavor]
-[01Dec2024 02:31:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Granted 2633 advancements to Pablo1818]
-[01Dec2024 02:32:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Who is Cutting Onions?]
-[01Dec2024 02:32:26.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [You've Got a Friend in Me]
-[01Dec2024 02:32:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Dinner's Served!]
-[01Dec2024 02:32:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [With Our Powers Combined!]
-[01Dec2024 02:32:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Fronds Like These]
-[01Dec2024 02:32:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [We'll Meet Again]
-[01Dec2024 02:32:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Ruined Citadel]
-[01Dec2024 02:32:26.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Disturbing the Dead I]
-[01Dec2024 02:32:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Pure Imagination]
-[01Dec2024 02:32:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Wireless Network]
-[01Dec2024 02:32:26.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Secret Ingredient]
-[01Dec2024 02:32:26.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Life Finds A Way]
-[01Dec2024 02:32:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Suit Up]
-[01Dec2024 02:32:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Big Brain™ Time]
-[01Dec2024 02:32:26.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The dead shall serve]
-[01Dec2024 02:32:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Smithing with Style]
-[01Dec2024 02:32:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hans Moleman]
-[01Dec2024 02:32:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Carbonated Swim]
-[01Dec2024 02:32:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Plant Food]
-[01Dec2024 02:32:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Captain Nemo]
-[01Dec2024 02:32:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Free the End]
-[01Dec2024 02:32:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [I Am Become Death]
-[01Dec2024 02:32:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Pseudo Archaeologist]
-[01Dec2024 02:32:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Glow and Behold!]
-[01Dec2024 02:32:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Into Darkness]
-[01Dec2024 02:32:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The End... of the Beginning]
-[01Dec2024 02:32:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bring Home the Beacon]
-[01Dec2024 02:32:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The (Cinnamon) Spice Must Flow]
-[01Dec2024 02:32:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Glow Sticks]
-[01Dec2024 02:32:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Not Today, Thank You]
-[01Dec2024 02:32:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Chattering Teeth]
-[01Dec2024 02:32:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The Thing of Ancient Civilization]
-[01Dec2024 02:32:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Masquerade]
-[01Dec2024 02:32:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Come on and Slam]
-[01Dec2024 02:32:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [When the Squad Hops into Town]
-[01Dec2024 02:32:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [You're Coming With Me]
-[01Dec2024 02:32:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tree Stars!!!]
-[01Dec2024 02:32:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Just a Flesh Wound]
-[01Dec2024 02:32:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Time of the Titans]
-[01Dec2024 02:32:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Talking Walking Gummy Bear]
-[01Dec2024 02:32:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Didn't Make it on the Ark]
-[01Dec2024 02:32:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Local Brewery]
-[01Dec2024 02:32:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Magnets, How Do They Work?]
-[01Dec2024 02:32:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [The Next Generation]
-[01Dec2024 02:32:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Caniac No More]
-[01Dec2024 02:32:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Fishy Business]
-[01Dec2024 02:32:26.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [If You Can't Take the Heat...]
-[01Dec2024 02:32:26.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Lost in the Cells]
-[01Dec2024 02:32:26.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Hot Tourist Destinations]
-[01Dec2024 02:32:26.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Gaining Royal Powers]
-[01Dec2024 02:32:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Another Kind of Slime]
-[01Dec2024 02:32:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Dust, Sand and Bones]
-[01Dec2024 02:32:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Reality Glitch]
-[01Dec2024 02:32:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [This Boat Has Legs]
-[01Dec2024 02:32:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Publicity Stunt]
-[01Dec2024 02:32:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Three Eyes on Every Fish]
-[01Dec2024 02:32:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Buckets of Joy]
-[01Dec2024 02:32:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Great View From Up Here]
-[01Dec2024 02:32:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [WHAT DOES IT MEAN?!]
-[01Dec2024 02:32:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [How Did We Get Here?]
-[01Dec2024 02:32:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Bullseye]
-[01Dec2024 02:32:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Hope, Love, Dreams, and BEES!!!]
-[01Dec2024 02:32:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Spear Mint]
-[01Dec2024 02:32:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Prehistoric Elytra]
-[01Dec2024 02:32:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Ice Maze]
-[01Dec2024 02:32:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Sightbee-er]
-[01Dec2024 02:32:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Gravedigger]
-[01Dec2024 02:32:26.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hanging Tree]
-[01Dec2024 02:32:26.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Two Birds, One Arrow]
-[01Dec2024 02:32:26.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [We Need to Go Deeper]
-[01Dec2024 02:32:26.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Who's the Pillager Now?]
-[01Dec2024 02:32:26.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Staff of Nortoq'gul]
-[01Dec2024 02:32:26.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Corrodon't]
-[01Dec2024 02:32:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Run, Run as Fast as You Can]
-[01Dec2024 02:32:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Strictly Medicinal Purposes]
-[01Dec2024 02:32:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Honey Is Alive!]
-[01Dec2024 02:32:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Explosive Combination]
-[01Dec2024 02:32:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Boo! Hiss!]
-[01Dec2024 02:32:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Crops of the Wild]
-[01Dec2024 02:32:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Manual Intervention]
-[01Dec2024 02:32:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Seafood]
-[01Dec2024 02:32:26.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Divine Favor]
-[01Dec2024 02:32:26.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Well prepared]
-[01Dec2024 02:32:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Catching Flakes]
-[01Dec2024 02:32:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Into Fire]
-[01Dec2024 02:32:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [You Look Like a Good Joe]
-[01Dec2024 02:32:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Beginning of the End]
-[01Dec2024 02:32:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Dirty Return]
-[01Dec2024 02:32:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Take Aim]
-[01Dec2024 02:32:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The Dead Sea]
-[01Dec2024 02:32:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Total Beelocation]
-[01Dec2024 02:32:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Knives Out]
-[01Dec2024 02:32:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bonfire Lit]
-[01Dec2024 02:32:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Arbalistic]
-[01Dec2024 02:32:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Blood for the Blood God]
-[01Dec2024 02:32:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Nautical Neighbors]
-[01Dec2024 02:32:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Not Quite "Nine" Lives]
-[01Dec2024 02:32:26.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Cover Me with Diamonds]
-[01Dec2024 02:32:26.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Toxic Alloy]
-[01Dec2024 02:32:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bukkit Bukkit]
-[01Dec2024 02:32:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Wax Off]
-[01Dec2024 02:32:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Disturbing the Dead II]
-[01Dec2024 02:32:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Perfect Instance]
-[01Dec2024 02:32:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Over the Rainbow!]
-[01Dec2024 02:32:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Magic the Candling]
-[01Dec2024 02:32:26.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Hired Help]
-[01Dec2024 02:32:26.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Walking Dead]
-[01Dec2024 02:32:26.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Activated my trap candle!]
-[01Dec2024 02:32:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bee Collector]
-[01Dec2024 02:32:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [R.I.P. Yondu]
-[01Dec2024 02:32:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Corrupting the Paradise]
-[01Dec2024 02:32:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sweet Dreams]
-[01Dec2024 02:32:26.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Glorious Feast]
-[01Dec2024 02:32:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [You Need a Mint]
-[01Dec2024 02:32:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Ancient Civilization]
-[01Dec2024 02:32:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Brewing Danger]
-[01Dec2024 02:32:26.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Monsters Hunted]
-[01Dec2024 02:32:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Enchanter]
-[01Dec2024 02:32:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Voluntary Exile]
-[01Dec2024 02:32:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Broken Parts III]
-[01Dec2024 02:32:26.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Is It a Bird?]
-[01Dec2024 02:32:26.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Total Meltdown]
-[01Dec2024 02:32:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Almost Like a Fan]
-[01Dec2024 02:32:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Burning Arena]
-[01Dec2024 02:32:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Swaggy Meal Mommy Made It]
-[01Dec2024 02:32:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Staff of Mynakta'gul]
-[01Dec2024 02:32:26.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Demonslayer]
-[01Dec2024 02:32:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Postmortal]
-[01Dec2024 02:32:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Century Egg]
-[01Dec2024 02:32:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Mind over Magnet]
-[01Dec2024 02:32:26.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Birthday Song]
-[01Dec2024 02:32:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Whole Lot of Shaking Going On]
-[01Dec2024 02:32:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Is It a Plane?]
-[01Dec2024 02:32:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tiny Battle in a Block]
-[01Dec2024 02:32:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The Queen's Desire]
-[01Dec2024 02:32:26.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Uranium Fever]
-[01Dec2024 02:32:26.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Star Trader]
-[01Dec2024 02:32:26.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tis the Season]
-[01Dec2024 02:32:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Cyclops]
-[01Dec2024 02:32:26.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Wax On]
-[01Dec2024 02:32:26.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sound of Music]
-[01Dec2024 02:32:26.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Suspicious Looking Item]
-[01Dec2024 02:32:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Hero of the Village]
-[01Dec2024 02:32:26.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hidden in the Depths]
-[01Dec2024 02:32:26.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bullet Train]
-[01Dec2024 02:32:26.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [And I'm All Out of Gum]
-[01Dec2024 02:32:26.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Beaconator]
-[01Dec2024 02:32:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Staff of Zatraq'gul]
-[01Dec2024 02:32:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Find a Meaningless Animal]
-[01Dec2024 02:32:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Journey Begins]
-[01Dec2024 02:32:26.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [This is my Boomstick]
-[01Dec2024 02:32:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Wingin' It]
-[01Dec2024 02:32:26.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Got Lamps?]
-[01Dec2024 02:32:26.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [The Ray Cat Solution]
-[01Dec2024 02:32:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Folly of Man]
-[01Dec2024 02:32:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Shine!]
-[01Dec2024 02:32:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bee Our Guest]
-[01Dec2024 02:32:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [What a Deal!]
-[01Dec2024 02:32:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Is It a Balloon?]
-[01Dec2024 02:32:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Crafting a New Look]
-[01Dec2024 02:32:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Uneasy Alliance]
-[01Dec2024 02:32:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Yellow Brick Road]
-[01Dec2024 02:32:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [You're a Monster]
-[01Dec2024 02:32:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The One Who Knocks]
-[01Dec2024 02:32:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Rainbow Curtains!!!]
-[01Dec2024 02:32:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [You Monster...]
-[01Dec2024 02:32:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Crop Rotation]
-[01Dec2024 02:32:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Wrath of the Lich]
-[01Dec2024 02:32:26.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Floral Sharing]
-[01Dec2024 02:32:26.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [3.6 Roentgen]
-[01Dec2024 02:32:26.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Healing Power of Friendship!]
-[01Dec2024 02:32:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Cheating Chances!]
-[01Dec2024 02:32:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Personal Guardian]
-[01Dec2024 02:32:26.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Big Red Button]
-[01Dec2024 02:32:26.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Double Or Nothing!]
-[01Dec2024 02:32:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Slurp Up]
-[01Dec2024 02:32:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [An Understanding]
-[01Dec2024 02:32:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Throwaway Joke]
-[01Dec2024 02:32:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Radiation Vibe]
-[01Dec2024 02:32:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Danger: High Voltage]
-[01Dec2024 02:32:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Rude Awakening]
-[01Dec2024 02:32:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The All-Seeing]
-[01Dec2024 02:32:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sticky Situation]
-[01Dec2024 02:32:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [I Found the Coin Slot]
-[01Dec2024 02:32:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Destroy All Monsters]
-[01Dec2024 02:32:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Ol' Betsy]
-[01Dec2024 02:32:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Look Mom, No World Edit!]
-[01Dec2024 02:32:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Sweet Sweet Speeding Up]
-[01Dec2024 02:32:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [An Alloy To Remember]
-[01Dec2024 02:32:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Gardener and the Bees]
-[01Dec2024 02:32:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [All Buddies Now]
-[01Dec2024 02:32:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [The Black Parade]
-[01Dec2024 02:32:26.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Parrots and the Bats]
-[01Dec2024 02:32:26.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [A Complete Catalogue]
-[01Dec2024 02:32:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [That is One Big Pile of...]
-[01Dec2024 02:32:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Solar Powered]
-[01Dec2024 02:32:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Welcome Back, Nether Reactor]
-[01Dec2024 02:32:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Oh Shiny]
-[01Dec2024 02:32:26.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Dark (Chocolate) Tower]
-[01Dec2024 02:32:26.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Dessert Power]
-[01Dec2024 02:32:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Destroyer of Worlds]
-[01Dec2024 02:32:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Blessings of Life]
-[01Dec2024 02:32:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Blood "Donation"]
-[01Dec2024 02:32:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Very Very Frightening]
-[01Dec2024 02:32:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hot Stuff]
-[01Dec2024 02:32:26.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Forlornliest Day of My Life]
-[01Dec2024 02:32:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Whatever Floats Your Goat!]
-[01Dec2024 02:32:26.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Cut the Red Wire]
-[01Dec2024 02:32:26.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Surge Protector]
-[01Dec2024 02:32:26.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Gassed Up]
-[01Dec2024 02:32:26.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [A Furious Cocktail]
-[01Dec2024 02:32:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Staff of Xaphnok'gul]
-[01Dec2024 02:32:26.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Royal Presence]
-[01Dec2024 02:32:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Best Friends Forever]
-[01Dec2024 02:32:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Heliomancer]
-[01Dec2024 02:32:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Careful Restoration]
-[01Dec2024 02:32:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Looking for the Moon]
-[01Dec2024 02:32:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Palette Swap]
-[01Dec2024 02:32:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Soul Forge]
-[01Dec2024 02:32:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Heart Of The Storm]
-[01Dec2024 02:32:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Shell City]
-[01Dec2024 02:32:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [King of Monsters]
-[01Dec2024 02:32:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [The Cave That Time Forgot]
-[01Dec2024 02:32:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Shelf Life]
-[01Dec2024 02:32:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Paint It Black]
-[01Dec2024 02:32:26.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Light In The Darkness]
-[01Dec2024 02:32:26.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Drink Offering]
-[01Dec2024 02:32:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Grand Hive Defender]
-[01Dec2024 02:32:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tastes Like Chicken]
-[01Dec2024 02:32:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Power Of The Sea]
-[01Dec2024 02:32:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Opposites Attract]
-[01Dec2024 02:32:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bedrock or Bust]
-[01Dec2024 02:32:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Those Aren't Balloons...]
-[01Dec2024 02:32:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [It Spreads]
-[01Dec2024 02:32:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Peace and Love]
-[01Dec2024 02:32:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Modern Art. It'll Never Last]
-[01Dec2024 02:32:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Worthless]
-[01Dec2024 02:32:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Caves & Cliffs]
-[01Dec2024 02:32:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Freaky Item]
-[01Dec2024 02:32:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Death finds a Way]
-[01Dec2024 02:32:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Sniper Duel]
-[01Dec2024 02:32:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Imperfect thing]
-[01Dec2024 02:32:26.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Where's Goopy?]
-[01Dec2024 02:32:26.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tech-It]
-[01Dec2024 02:32:26.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Easy like a Sundae Morning]
-[01Dec2024 02:32:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Shiny Found!]
-[01Dec2024 02:32:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Spooky Scary Skeleton]
-[01Dec2024 02:32:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Rainbows and Candicorns]
-[01Dec2024 02:32:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Two by Two]
-[01Dec2024 02:32:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Taking from the Dead]
-[01Dec2024 02:32:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Once Upon a Cave]
-[01Dec2024 02:32:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Teletor's Telecore]
-[01Dec2024 02:32:26.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Order of Dagon]
-[01Dec2024 02:32:26.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Smelly Situation]
-[01Dec2024 02:32:26.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Regal Friends Till The Very End!]
-[01Dec2024 02:32:26.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Getting an Upgrade]
-[01Dec2024 02:32:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Speedy Buzzy Bees!]
-[01Dec2024 02:32:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Lorem Ipsum]
-[01Dec2024 02:32:26.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Town of Bedrock]
-[01Dec2024 02:32:26.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Light as a Rabbit]
-[01Dec2024 02:32:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Lumberjackosaurus]
-[01Dec2024 02:32:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Master Chef]
-[01Dec2024 02:32:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Encino Man]
-[01Dec2024 02:32:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Tactical Fishing]
-[01Dec2024 02:32:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Three-Bolt Suit]
-[01Dec2024 02:32:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Respecting the Remnants]
-[01Dec2024 02:32:26.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [I Put a Spell on You]
-[01Dec2024 02:32:26.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Day at the Fair]
-[01Dec2024 02:32:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Unwrapped Candy]
-[01Dec2024 02:32:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Gummy Gumbo]
-[01Dec2024 02:32:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Zombie Doctor]
-[01Dec2024 02:32:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Turning the tables]
-[01Dec2024 02:32:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Peekaboo, I (still) see you!]
-[01Dec2024 02:32:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bath Bomb]
-[01Dec2024 02:32:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Little Sniffs]
-[01Dec2024 02:32:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Winning Favors]
-[01Dec2024 02:32:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The City at the End of the Game]
-[01Dec2024 02:32:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Ice Bucket Challenge]
-[01Dec2024 02:32:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Remote Getaway]
-[01Dec2024 02:32:26.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Iron, but dark]
-[01Dec2024 02:32:26.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Concentrated Toxins]
-[01Dec2024 02:32:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Rust-eze!]
-[01Dec2024 02:32:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Ancient Origins]
-[01Dec2024 02:32:26.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [War Pigs]
-[01Dec2024 02:32:26.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Crisis Adverted]
-[01Dec2024 02:32:26.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bring Forth The Mollusk]
-[01Dec2024 02:32:26.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Terrible Armor]
-[01Dec2024 02:32:26.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Cursed Island]
-[01Dec2024 02:32:26.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Life Saving Collection]
-[01Dec2024 02:32:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Gotta Hive a Dance!]
-[01Dec2024 02:32:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Broken Parts I]
-[01Dec2024 02:32:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [The End... Again...]
-[01Dec2024 02:32:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sunken City]
-[01Dec2024 02:32:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Stingy Delicacy]
-[01Dec2024 02:32:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Tyrant King]
-[01Dec2024 02:32:26.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Looks Like Emerald to Me]
-[01Dec2024 02:32:26.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Sky's the Limit]
-[01Dec2024 02:32:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [A Multidimensional Predator]
-[01Dec2024 02:32:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hot Rod]
-[01Dec2024 02:32:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Return to Sender]
-[01Dec2024 02:32:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Apocalypse-Proof]
-[01Dec2024 02:32:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Invitation to the Tea Party]
-[01Dec2024 02:32:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Stay dead]
-[01Dec2024 02:32:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [No Slime No Service]
-[01Dec2024 02:32:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Smells Interesting]
-[01Dec2024 02:32:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Eye Spy]
-[01Dec2024 02:32:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Walk Without Rhythm]
-[01Dec2024 02:32:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Bug Repellent]
-[01Dec2024 02:32:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Abyssal Armor]
-[01Dec2024 02:32:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Exploration]
-[01Dec2024 02:32:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The Bee Warrior Rises!]
-[01Dec2024 02:32:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Biome Reactors]
-[01Dec2024 02:32:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Call of the Ancients]
-[01Dec2024 02:32:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Serious Dedication]
-[01Dec2024 02:32:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Brains and Brawn]
-[01Dec2024 02:32:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Choc-o-Block]
-[01Dec2024 02:32:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Magnetron No More]
-[01Dec2024 02:32:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Was that a Shulker?]
-[01Dec2024 02:32:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Frosted Prison]
-[01Dec2024 02:32:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Beyond the Sea]
-[01Dec2024 02:32:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [God Slayer]
-[01Dec2024 02:32:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Spice Up Your Life]
-[01Dec2024 02:32:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The Extinguished Fire]
-[01Dec2024 02:32:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Greed]
-[01Dec2024 02:32:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Crusade Against Curse]
-[01Dec2024 02:32:26.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Masterful Collector]
-[01Dec2024 02:32:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Planting the Past]
-[01Dec2024 02:32:26.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Broken Parts II]
-[01Dec2024 02:32:26.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Adventuring Time]
-[01Dec2024 02:32:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [I Want To Believe]
-[01Dec2024 02:32:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Choosing Wisely]
-[01Dec2024 02:32:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Seedy Place]
-[01Dec2024 02:32:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Those Were the Days]
-[01Dec2024 02:32:26.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Cutest Predator]
-[01Dec2024 02:32:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Surface or Bust]
-[01Dec2024 02:32:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Praise the Sun]
-[01Dec2024 02:32:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hunt and Gather]
-[01Dec2024 02:32:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Eye Spy]
-[01Dec2024 02:32:26.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Feels Like Home]
-[01Dec2024 02:32:26.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Law of Club and Fang]
-[01Dec2024 02:32:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Who turned the lights off?]
-[01Dec2024 02:32:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Birds of a Feather]
-[01Dec2024 02:32:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Pass the Wasabi]
-[01Dec2024 02:32:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Withering Heights]
-[01Dec2024 02:32:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Blot Out The Sun]
-[01Dec2024 02:32:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [The broken Nether's warmachine]
-[01Dec2024 02:32:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [A Balanced Diet]
-[01Dec2024 02:32:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Buff Out Those Scratches]
-[01Dec2024 02:32:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Dinosaur Train]
-[01Dec2024 02:32:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Subspace Bubble]
-[01Dec2024 02:32:26.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Lighthouse in Your Eyes]
-[01Dec2024 02:32:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Journey's End]
-[01Dec2024 02:32:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Power of Books]
-[01Dec2024 02:32:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [THE OOOOOOOOZE]
-[01Dec2024 02:32:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Spear of Ages]
-[01Dec2024 02:32:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Jennifer Dumped Me]
-[01Dec2024 02:32:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Powers of Poseidon]
-[01Dec2024 02:32:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Abnormal Shrimp]
-[01Dec2024 02:32:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Country Lode, Take Me Home]
-[01Dec2024 02:32:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Oh Little Town of Gingerbread]
-[01Dec2024 02:32:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Diamonds!]
-[01Dec2024 02:32:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The Shadow Over Mine's Craft]
-[01Dec2024 02:32:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Re-Extinct]
-[01Dec2024 02:32:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Cursed Pyramid]
-[01Dec2024 02:32:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [A Terrible Fortress]
-[01Dec2024 02:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Sky Smackdown]
-[01Dec2024 02:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Clever Girl]
-[01Dec2024 02:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [no u]
-[01Dec2024 02:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Black Velvet]
-[01Dec2024 02:32:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Fashion Fad!]
-[01Dec2024 02:32:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Push and Pull]
-[01Dec2024 02:32:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Staff of Azrata'gul]
-[01Dec2024 02:32:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Beeography]
-[01Dec2024 02:32:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has completed the challenge [Unstoppable Anger]
-[01Dec2024 02:32:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Source of Evil]
-[01Dec2024 02:32:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Hooked on a Feeling]
-[01Dec2024 02:32:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Diamonds of the Sea]
-[01Dec2024 02:32:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Revive Me, I Have a Raygun]
-[01Dec2024 02:32:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [The End?]
-[01Dec2024 02:32:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has reached the goal [Not a Fan of the Red Flavor]
-[01Dec2024 02:32:26.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Granted 2633 advancements to ImNajimiOwO]
-[01Dec2024 02:32:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:33:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
-[01Dec2024 02:34:35.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed whilst fighting Maledictus
-[01Dec2024 02:34:35.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
-[01Dec2024 02:35:31.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Maledictus]
-[01Dec2024 02:35:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:38:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:39:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was slain by Maledictus
-[01Dec2024 02:39:28.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Maledictus]
-[01Dec2024 02:39:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:39:54.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was slain by Pablo1818
-[01Dec2024 02:40:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:41:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was doomed to fall
-[01Dec2024 02:41:17.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Tremorzilla]
-[01Dec2024 02:41:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[01Dec2024 02:42:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was shot by Skeleton
-[01Dec2024 02:44:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was blown up by Creeper
-[01Dec2024 02:44:59.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO lost connection: Disconnected
-[01Dec2024 02:44:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO left the game
-[01Dec2024 02:54:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Revoked 132 advancements from Pablo1818]
-[01Dec2024 02:57:35.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 366 block(s)]
-[01Dec2024 02:58:20.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
-[01Dec2024 03:00:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 430 block(s)]
-[01Dec2024 03:00:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 398 block(s)]
-[01Dec2024 03:01:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1677 block(s)]
-[01Dec2024 03:01:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 170 block(s)]
-[01Dec2024 03:14:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
-[01Dec2024 03:16:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1296 block(s)]
-[01Dec2024 03:16:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3168 block(s)]
-[01Dec2024 03:16:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3167 block(s)]
-[01Dec2024 03:16:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3403 block(s)]
-[01Dec2024 03:17:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1714 block(s)]
-[01Dec2024 03:17:16.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -3.3615935886563193,4.124999737399975,8.622336022927271
-[01Dec2024 03:17:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
-[01Dec2024 03:17:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the weather to clear]
+[01Dec2024 03:28:25.812] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Dec2024 03:28:27.828] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[01Dec2024 03:28:27.830] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[01Dec2024 03:28:30.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[01Dec2024 03:28:30.837] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
+[01Dec2024 03:28:30.854] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[01Dec2024 03:28:30.862] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[01Dec2024 03:28:32.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Dec2024 03:28:32.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Dec2024 03:28:32.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Dec2024 03:28:32.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Dec2024 03:28:32.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Dec2024 03:28:32.808] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Dec2024 03:28:32.880] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Dec2024 03:28:32.881] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Dec2024 03:28:32.881] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Dec2024 03:28:32.882] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Dec2024 03:28:32.897] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Dec2024 03:28:32.900] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Dec2024 03:28:32.957] [Server thread/INFO] [Framework/]: Loading server configs...
+[01Dec2024 03:28:32.977] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Dec2024 03:28:32.977] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Dec2024 03:28:32.981] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Dec2024 03:28:33.074] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Dec2024 03:28:33.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Dec2024 03:28:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Dec2024 03:28:44.089] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.091] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.092] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.092] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.092] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.093] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.102] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.107] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Dec2024 03:28:44.522] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[01Dec2024 03:28:45.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[01Dec2024 03:28:45.160] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8639 ms
+[01Dec2024 03:28:45.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.267s)! For help, type "help"
+[01Dec2024 03:28:45.190] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Dec2024 03:28:56.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:50677] logged in with entity id 106 at (-268.0090235313941, 118.23110047088747, -144.36312234902064)
+[01Dec2024 03:28:57.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
+[01Dec2024 03:29:32.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 238 block(s)]
+[01Dec2024 03:29:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
