@@ -180,3 +180,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 03:41:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 156 block(s)]
 [01Dec2024 03:42:23.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
 [01Dec2024 03:44:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the weather to clear]
+[01Dec2024 03:52:37.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Disconnected
+[01Dec2024 03:52:37.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
