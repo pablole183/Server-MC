@@ -19,13 +19,13 @@
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2024-12-01 00:42:11 +0000"
+      "instant_granted": "2024-12-01 02:54:23 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2024-12-01 00:42:11 +0000"
+      "instant_granted": "2024-12-01 02:54:23 +0000"
     },
     "done": true
   },
@@ -302,12 +302,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/honey_permission": {
-    "criteria": {
-      "honey_permission": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-01 01:54:41 +0000"
@@ -366,18 +360,6 @@
     "criteria": {
       "has_smooth_red_sandstone": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/fighting_the_swarm": {
-    "criteria": {
-      "silverfish_killed": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
-    "criteria": {
-      "consume_sugar_water_bottle": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -487,12 +469,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_warped_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
-    "criteria": {
-      "comb_cutter_tool": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -723,12 +699,6 @@
     "criteria": {
       "has_pink_petals": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/honey_compass_use": {
-    "criteria": {
-      "honey_compass": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -1091,12 +1061,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/crazy_trader": {
-    "criteria": {
-      "bee_queen_trading": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-01 02:31:57 +0000",
@@ -1304,12 +1268,6 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/lime_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
@@ -1370,12 +1328,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/honey_crystal_shield_block_ineffectively": {
-    "criteria": {
-      "honey_crystal_shield_block_ineffectively": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_lime_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-01 02:31:57 +0000",
@@ -1403,12 +1355,6 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/comb_cutter_extra_drops": {
-    "criteria": {
-      "comb_cutter_extra_drops": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2024-12-01 02:31:57 +0000"
@@ -1426,12 +1372,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -1599,12 +1539,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/cleanup_sticky_honey_residue": {
-    "criteria": {
-      "cleanup_sticky_honey_residue": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/leash_all_frog_variants": {
     "criteria": {
       "minecraft:warm": "2024-12-01 02:31:57 +0000",
@@ -1624,12 +1558,6 @@
     "criteria": {
       "has_smelting_upgrade": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/bee_cannon_full": {
-    "criteria": {
-      "bee_cannon_full": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -2114,12 +2042,6 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_cell_maze": {
-    "criteria": {
-      "in_cell_maze": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/orange_hanging_canvas_sign": {
     "criteria": {
       "has_hanging_canvas_sign": "2024-12-01 02:31:57 +0000",
@@ -2134,12 +2056,6 @@
       "minecraft:soul_sand_valley": "2024-12-01 02:31:57 +0000",
       "minecraft:basalt_deltas": "2024-12-01 02:31:57 +0000",
       "minecraft:warped_forest": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/drink_royal_jelly_bottle": {
-    "criteria": {
-      "drink_royal_jelly_bottle": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -2294,17 +2210,6 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_pile/brush_pollen_pollen_suspicious": {
-    "criteria": {
-      "brush_pollen_pollen_suspicious_3": "2024-12-01 02:31:57 +0000",
-      "brush_pollen_pollen_suspicious_4": "2024-12-01 02:31:57 +0000",
-      "brush_pollen_pollen_suspicious_1": "2024-12-01 02:31:57 +0000",
-      "brush_pollen_pollen_suspicious_2": "2024-12-01 02:31:57 +0000",
-      "brush_pollen_pollen_suspicious_5": "2024-12-01 02:31:57 +0000",
-      "brush_pollen_pollen_suspicious_6": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-01 02:31:57 +0000",
@@ -2316,12 +2221,6 @@
     "criteria": {
       "has_acacia_planks": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:essence/essence_continuity": {
-    "criteria": {
-      "essence_continuity": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -2550,12 +2449,6 @@
     },
     "done": true
   },
-  "the_bumblezone:rootmin/rootmin_rainbow_name": {
-    "criteria": {
-      "rootmin_rainbow_name": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/cyan_hanging_canvas_sign": {
     "criteria": {
       "has_hanging_canvas_sign": "2024-12-01 02:31:57 +0000",
@@ -2657,12 +2550,6 @@
     "criteria": {
       "has_glass": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:essence/bee_essence_infusion": {
-    "criteria": {
-      "consume_essence": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -2952,12 +2839,6 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/buzzing_briefcase_release": {
-    "criteria": {
-      "buzzing_briefcase_release": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-01 02:31:57 +0000",
@@ -2975,39 +2856,6 @@
     "criteria": {
       "has_raw_gold": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_stinger_spear_shrine": "2024-12-01 02:31:57 +0000",
-      "in_bee_house": "2024-12-01 02:31:57 +0000",
-      "in_honey_slime_ranch": "2024-12-01 02:31:57 +0000",
-      "in_hanging_garden": "2024-12-01 02:31:57 +0000",
-      "in_honey_fountain": "2024-12-01 02:31:57 +0000",
-      "in_battle_cubes": "2024-12-01 02:31:57 +0000",
-      "in_cannon_range": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_white": "2024-12-01 02:31:57 +0000",
-      "in_pirate_ship": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_red": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_green": "2024-12-01 02:31:57 +0000",
-      "in_cherry_veteran_tree": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_purple": "2024-12-01 02:31:57 +0000",
-      "in_candle_parkour": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_yellow": "2024-12-01 02:31:57 +0000",
-      "in_subway": "2024-12-01 02:31:57 +0000",
-      "in_hive_temple": "2024-12-01 02:31:57 +0000",
-      "in_honey_cave_room": "2024-12-01 02:31:57 +0000",
-      "in_sempiternal_sanctum_blue": "2024-12-01 02:31:57 +0000",
-      "in_ancient_shrine": "2024-12-01 02:31:57 +0000",
-      "in_pollinated_stream": "2024-12-01 02:31:57 +0000",
-      "in_cell_maze": "2024-12-01 02:31:57 +0000",
-      "in_ice_monolith": "2024-12-01 02:31:57 +0000",
-      "in_throne_pillar": "2024-12-01 02:31:57 +0000",
-      "in_honitel": "2024-12-01 02:31:57 +0000",
-      "in_ancient_hoops": "2024-12-01 02:31:57 +0000",
-      "in_overgrown_flower": "2024-12-01 02:31:57 +0000",
-      "in_dance_floor": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -3052,12 +2900,6 @@
       "has_mushroom_stew": "2024-12-01 02:31:57 +0000",
       "has_red_mushroom": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/obtain_throne_honey_compass": {
-    "criteria": {
-      "obtain_throne_honey_compass": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -3154,12 +2996,6 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_pile/fall_onto_pollen_pile": {
-    "criteria": {
-      "fall_onto_pollen_pile": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-12-01 02:31:57 +0000",
@@ -3184,14 +3020,6 @@
     "criteria": {
       "has_potato": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
-    "criteria": {
-      "ancient_wax_stairs": "2024-12-01 02:31:57 +0000",
-      "ancient_wax_full_blocks": "2024-12-01 02:31:57 +0000",
-      "ancient_wax_slab": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -3241,12 +3069,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/royal_jelly_block_piston": {
-    "criteria": {
-      "royal_jelly_block_next_to_piston": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -3470,12 +3292,6 @@
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_slime/honey_slime_creation": {
-    "criteria": {
-      "honey_slime_creation": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -3748,18 +3564,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
-    "criteria": {
-      "obtain_honey_bucket": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/stinger_spear_paralyzing": {
-    "criteria": {
-      "stinger_spear_paralyzing": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-01 02:31:57 +0000",
@@ -3798,12 +3602,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:candles/light_soul_super_candle": {
-    "criteria": {
-      "light_soul_potion_candle": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -4010,13 +3808,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/craft_flower_headwear": {
-    "criteria": {
-      "craft_flower_headwear": "2024-12-01 02:31:57 +0000",
-      "obtain_flower_headwear": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-01 02:31:57 +0000",
@@ -4101,12 +3892,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/flower_headwear_wrath_structure": {
-    "criteria": {
-      "flower_headwear_wrath_structure": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-01 02:31:57 +0000",
@@ -4157,12 +3942,6 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:dirt_pellet/dirt_pellet_return_to_sender": {
-    "criteria": {
-      "hurt_rootmin_with_pellet": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -4261,12 +4040,6 @@
     },
     "done": true
   },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2024-12-01 02:31:57 +0000",
@@ -4331,12 +4104,6 @@
     },
     "done": true
   },
-  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
-    "criteria": {
-      "grow_crystalline_flower": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-01 02:31:57 +0000",
@@ -4392,12 +4159,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/pollen_fight": {
-    "criteria": {
-      "pollen_puff_hit": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "call_of_yucutan:kill_villager_with_macu": {
     "criteria": {
       "kill_villager_with_macu_0": "2024-12-01 02:31:57 +0000"
@@ -4448,12 +4209,6 @@
     "criteria": {
       "has_glass": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/flooding_the_housing_market": {
-    "criteria": {
-      "beehive_crafted": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -4827,14 +4582,6 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/carve_luminescent_wax": {
-    "criteria": {
-      "luminescent_wax_channels": "2024-12-01 02:31:57 +0000",
-      "luminescent_wax_nodes": "2024-12-01 02:31:57 +0000",
-      "luminescent_wax_corners": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-01 02:31:57 +0000",
@@ -4885,12 +4632,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/honey_bucket_bee_love": {
-    "criteria": {
-      "honey_bucket_bee_love": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
       "has_mangrove_planks": "2024-12-01 02:31:57 +0000",
@@ -4915,28 +4656,6 @@
     "criteria": {
       "has_needed_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:candles/obtain_all_colored_super_candles": {
-    "criteria": {
-      "gray_super_candle": "2024-12-01 02:31:57 +0000",
-      "black_super_candle": "2024-12-01 02:31:57 +0000",
-      "green_super_candle": "2024-12-01 02:31:57 +0000",
-      "blue_super_candle": "2024-12-01 02:31:57 +0000",
-      "light_gray_super_candle": "2024-12-01 02:31:57 +0000",
-      "light_blue_super_candle": "2024-12-01 02:31:57 +0000",
-      "orange_super_candle": "2024-12-01 02:31:57 +0000",
-      "brown_super_candle": "2024-12-01 02:31:57 +0000",
-      "white_super_candle": "2024-12-01 02:31:57 +0000",
-      "magenta_super_candle": "2024-12-01 02:31:57 +0000",
-      "red_super_candle": "2024-12-01 02:31:57 +0000",
-      "super_candle": "2024-12-01 02:31:57 +0000",
-      "lime_super_candle": "2024-12-01 02:31:57 +0000",
-      "yellow_super_candle": "2024-12-01 02:31:57 +0000",
-      "purple_super_candle": "2024-12-01 02:31:57 +0000",
-      "pink_super_candle": "2024-12-01 02:31:57 +0000",
-      "cyan_super_candle": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -4965,13 +4684,6 @@
     "criteria": {
       "has_mossy_cobblestone": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:candles/multi_potion_potion_candle": {
-    "criteria": {
-      "craft_multi_potion_potion_candle_2": "2024-12-01 02:31:57 +0000",
-      "craft_multi_potion_potion_candle_1": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -5023,12 +4735,6 @@
     },
     "done": true
   },
-  "the_bumblezone:candles/projectile_light_instant_potion_candle": {
-    "criteria": {
-      "projectile_light_instant_potion_candle": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-01 01:59:58 +0000"
@@ -5060,12 +4766,6 @@
       "has_result": "2024-12-01 02:31:57 +0000",
       "has_ingredient": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/obtain_sticky_honey_redstone": {
-    "criteria": {
-      "obtain_sticky_honey_redstone": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -5151,12 +4851,6 @@
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:bees/variant_bee_briefcase_capture": {
-    "criteria": {
-      "variant_bee_briefcase_capture": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -5333,12 +5027,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2024-12-01 02:31:57 +0000"
@@ -5378,13 +5066,6 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/brew_bee_soup": {
-    "criteria": {
-      "brew_bee_soup": "2024-12-01 02:31:57 +0000",
-      "brew_bee_soup_long": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -5609,12 +5290,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/food_removed_wrath_of_the_hive": {
-    "criteria": {
-      "food_removed_wrath_of_the_hive": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
@@ -5645,12 +5320,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/buzzing_briefcase_full": {
-    "criteria": {
-      "buzzing_briefcase_full": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -6127,12 +5796,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/back_in_action": {
-    "criteria": {
-      "bee_saved_by_stinger": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
     "criteria": {
       "has_basins": "2024-12-01 02:31:57 +0000",
@@ -6466,12 +6129,6 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/cystal_cannon_full": {
-    "criteria": {
-      "crystal_cannon_full": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
     "criteria": {
       "has_toilets": "2024-12-01 02:31:57 +0000",
@@ -6564,12 +6221,6 @@
       "has_glass_pane": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_orange_dye": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_beginning": {
-    "criteria": {
-      "bee_queen_first_trade": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -6735,12 +6386,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/dye_flower_headwear": {
-    "criteria": {
-      "dye_flower_headwear": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-01 02:31:57 +0000",
@@ -6841,12 +6486,6 @@
     },
     "done": true
   },
-  "the_bumblezone:windy_air/obtain_windy_air": {
-    "criteria": {
-      "obtain_windy_air": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-01 02:31:57 +0000",
@@ -6941,12 +6580,6 @@
       "has_baths": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_yellow_dye": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/stingless_bee_helmet_super_sight": {
-    "criteria": {
-      "stingless_bee_helmet_super_sight": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -7070,12 +6703,6 @@
       "has_toilets": "2024-12-01 02:31:57 +0000",
       "has_blue_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/hungry_hungry_bees": {
-    "criteria": {
-      "bee_fed": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -7613,22 +7240,10 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/honey_drunk": {
-    "criteria": {
-      "honey_bottle_drank": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
     "criteria": {
       "has_birch_leaves": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/sugar_water_next_to_sugar_cane": {
-    "criteria": {
-      "sugar_water_next_to_sugar_cane": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -7656,26 +7271,6 @@
     "criteria": {
       "has_cod_slice": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/carpenter_bee_boots_wall_hanging": {
-    "criteria": {
-      "carpenter_bee_boots_wall_hanging": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
-    "criteria": {
-      "carve_wax_2": "2024-12-01 02:31:57 +0000",
-      "carve_wax_1": "2024-12-01 02:31:57 +0000",
-      "carve_wax_4": "2024-12-01 02:31:57 +0000",
-      "carve_wax_3": "2024-12-01 02:31:57 +0000",
-      "carve_wax_9": "2024-12-01 02:31:57 +0000",
-      "carve_wax_6": "2024-12-01 02:31:57 +0000",
-      "carve_wax_5": "2024-12-01 02:31:57 +0000",
-      "carve_wax_8": "2024-12-01 02:31:57 +0000",
-      "carve_wax_7": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -7984,13 +7579,6 @@
     },
     "done": true
   },
-  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
-    "criteria": {
-      "obtain_sugar_infused_cobblestone": "2024-12-01 02:31:57 +0000",
-      "obtain_sugar_infused_stone": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/hazmat_armor": {
     "criteria": {
       "shirt": "2024-12-01 02:31:57 +0000",
@@ -8010,27 +7598,6 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/obtain_all_string_curtains": {
-    "criteria": {
-      "orange_string_curtain": "2024-12-01 02:31:57 +0000",
-      "green_string_curtain": "2024-12-01 02:31:57 +0000",
-      "light_blue_string_curtain": "2024-12-01 02:31:57 +0000",
-      "black_string_curtain": "2024-12-01 02:31:57 +0000",
-      "cyan_string_curtain": "2024-12-01 02:31:57 +0000",
-      "magenta_string_curtain": "2024-12-01 02:31:57 +0000",
-      "brown_string_curtain": "2024-12-01 02:31:57 +0000",
-      "white_string_curtain": "2024-12-01 02:31:57 +0000",
-      "red_string_curtain": "2024-12-01 02:31:57 +0000",
-      "lime_string_curtain": "2024-12-01 02:31:57 +0000",
-      "light_gray_string_curtain": "2024-12-01 02:31:57 +0000",
-      "pink_string_curtain": "2024-12-01 02:31:57 +0000",
-      "purple_string_curtain": "2024-12-01 02:31:57 +0000",
-      "blue_string_curtain": "2024-12-01 02:31:57 +0000",
-      "gray_string_curtain": "2024-12-01 02:31:57 +0000",
-      "yellow_string_curtain": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -8059,12 +7626,6 @@
     "criteria": {
       "has_smooth_stone": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/stinger_spear_long_range_kill": {
-    "criteria": {
-      "stinger_spear_long_range_kill": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -8144,12 +7705,6 @@
     },
     "done": true
   },
-  "the_bumblezone:rootmin/rootmin_flower_swap": {
-    "criteria": {
-      "rootmin_flower_swap": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/nuclear_furnace_component": {
     "criteria": {
       "raygun": "2024-12-01 02:31:57 +0000"
@@ -8208,18 +7763,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_red_nether_bricks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/brew_glistering_honey_crystal_block": {
-    "criteria": {
-      "brew_glistering_honey_crystal_block": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sentry_watcher/sentry_watcher_use_egg": {
-    "criteria": {
-      "sentry_watcher_spawn_egg": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -8316,12 +7859,6 @@
     "criteria": {
       "has_rice": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/terror_fangs": {
-    "criteria": {
-      "cave_spider_killed": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -8425,12 +7962,6 @@
   "alexscaves:alexscaves/trade_with_deep_one": {
     "criteria": {
       "stalked_by_deep_one": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_puff/pollen_puff_pollinate_tall_flower": {
-    "criteria": {
-      "pollen_puff_pollinate_tall_flower": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -8789,12 +8320,6 @@
     },
     "done": true
   },
-  "the_bumblezone:essence/essence_knowing": {
-    "criteria": {
-      "essence_knowing": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2024-12-01 02:31:57 +0000"
@@ -8945,12 +8470,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/bumble_bee_chestplate_max_flight": {
-    "criteria": {
-      "bumble_bee_chestplate_max_flight": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2024-12-01 02:31:57 +0000",
@@ -8997,12 +8516,6 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_garden": {
-    "criteria": {
-      "in_hanging_garden": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -9145,12 +8658,6 @@
     },
     "done": true
   },
-  "the_bumblezone:stinger_spear/stinger_spear_paralyze_boss": {
-    "criteria": {
-      "stinger_spear_paralyze_boss": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2024-12-01 02:31:57 +0000",
@@ -9258,12 +8765,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/peak_inefficiency": {
-    "criteria": {
-      "stinger_spear_killed_with_wither": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "aquamirae:recipes/esca": {
     "criteria": {
       "has_item": "2024-12-01 02:31:57 +0000"
@@ -9351,12 +8852,6 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/buzzing_briefcase_heal": {
-    "criteria": {
-      "buzzing_briefcase_heal": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
     "criteria": {
       "has_baths": "2024-12-01 02:31:57 +0000",
@@ -9434,12 +8929,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/honey_bucket_brood": {
-    "criteria": {
-      "honey_bucket_brood": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
@@ -9451,18 +8940,6 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_puff/bee_drop_pollen_puff": {
-    "criteria": {
-      "bee_drop_pollen_puff": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:essence/essence_radiance": {
-    "criteria": {
-      "essence_radiance": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -9941,12 +9418,6 @@
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:essence/essence_life": {
-    "criteria": {
-      "essence_life": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -10483,12 +9954,6 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_throne_pillar": {
-    "criteria": {
-      "in_throne_pillar": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
@@ -10507,12 +9972,6 @@
       "has_jungle_light_ceiling_fan": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_black_dye": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/poison_warfare": {
-    "criteria": {
-      "bee_stinger_shooter": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -10627,12 +10086,6 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -10804,12 +10257,6 @@
     "criteria": {
       "has_light_gray_wool": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
-    "criteria": {
-      "teleport_to_bumblezone_piston": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -11204,12 +10651,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
-    "criteria": {
-      "obtain_maxed_honey_crystal_shield": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_spruce_light_ceiling_fan": "2024-12-01 02:31:57 +0000",
@@ -11381,12 +10822,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
-    "criteria": {
-      "obtain_sticky_honey_redstone": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-01 02:31:57 +0000",
@@ -11502,18 +10937,6 @@
     },
     "done": true
   },
-  "the_bumblezone:essence/essence_calming": {
-    "criteria": {
-      "essence_calming": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/bee_stinger_paralysis": {
-    "criteria": {
-      "bee_stinger_paralyze": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-01 02:31:57 +0000",
@@ -11559,12 +10982,6 @@
   "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
       "has_item": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
-    "criteria": {
-      "honey_bee_leggings_flower_pollen": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -11648,12 +11065,6 @@
     "criteria": {
       "has_upgrade_base": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_puff/pollen_puff_fireball": {
-    "criteria": {
-      "pollen_puff_fireball": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -11757,12 +11168,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/slimy_mitosis": {
-    "criteria": {
-      "honey_slime_bred": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": "2024-12-01 02:31:57 +0000"
@@ -11837,12 +11242,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_lime_wool": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
-    "criteria": {
-      "trigger_redstone_honey_web": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -12149,12 +11548,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/too_many_legs": {
-    "criteria": {
-      "spider_killed": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/quarry": {
     "criteria": {
       "quarry": "2024-12-01 02:31:57 +0000"
@@ -12223,12 +11616,6 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_puff/pollen_puff_mooshroom": {
-    "criteria": {
-      "pollen_puff_mooshroom": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-01 02:31:57 +0000",
@@ -12289,12 +11676,6 @@
     "criteria": {
       "has_stone": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:bees/variant_bee_name": {
-    "criteria": {
-      "variant_bee_name": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -12592,12 +11973,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/carpenter_bee_boots_mined_blocks": {
-    "criteria": {
-      "carpenter_bee_boots_mined_blocks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-01 02:31:57 +0000",
@@ -12718,12 +12093,6 @@
     },
     "done": true
   },
-  "the_bumblezone:beehemoth/queen_beehemoth": {
-    "criteria": {
-      "created_queen_beehemoth": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
@@ -12776,12 +12145,6 @@
     "criteria": {
       "has_canvas": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/beenergized_maxed": {
-    "criteria": {
-      "beenergized_maxed": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -13017,12 +12380,6 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/honey_cocoon_silk_touch": {
-    "criteria": {
-      "honey_cocoon_silk_touch": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/baking/cooked_vegetable_pizza": {
     "criteria": {
       "has_result": "2024-12-01 02:31:57 +0000",
@@ -13051,12 +12408,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/honey_bucket_bee_grow": {
-    "criteria": {
-      "honey_bucket_bee_grow": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/sweetish_fish_bucket": {
     "criteria": {
       "bucket": "2024-12-01 02:31:57 +0000"
@@ -13072,12 +12423,6 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2024-12-01 01:55:48 +0000"
     },
     "done": true
   },
@@ -13263,21 +12608,9 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_puff/pollen_puff_pollinate_bee": {
-    "criteria": {
-      "pollen_puff_pollinate_bee": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/feed_snifflet": {
     "criteria": {
       "feed_snifflet": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/getting_protection": {
-    "criteria": {
-      "getting_protection": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -13426,12 +12759,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/brew_bee_stinger": {
-    "criteria": {
-      "brew_bee_stinger": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-01 02:31:57 +0000",
@@ -13450,12 +12777,6 @@
     "criteria": {
       "has_lime_terracotta": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/otherworldly_mites": {
-    "criteria": {
-      "endermite_killed": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -13486,22 +12807,10 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_sempiternal_sanctum": {
-    "criteria": {
-      "sempiternal_sanctum_enter_with_bee_essence": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_great_dragon_slayer": {
-    "criteria": {
-      "enderdragon_killed": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -13710,15 +13019,6 @@
     },
     "done": true
   },
-  "the_bumblezone:music_discs/obtain_all_music_discs": {
-    "criteria": {
-      "obtain_music_disc_la_bee_da_loca": "2024-12-01 02:31:57 +0000",
-      "obtain_music_disc_bee_laxing_with_the_hom_bees": "2024-12-01 02:31:57 +0000",
-      "obtain_music_disc_honey_bee_rat_faced_boy": "2024-12-01 02:31:57 +0000",
-      "obtain_music_disc_flight_of_the_bumblebee_rimsky_korsakov": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2024-12-01 02:31:57 +0000",
@@ -13891,12 +13191,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/consume_bee_soup": {
-    "criteria": {
-      "consume_bee_soup": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -14166,12 +13460,6 @@
     },
     "done": true
   },
-  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
-    "criteria": {
-      "stinger_spear_poisoning": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
@@ -14330,12 +13618,6 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
-    "criteria": {
-      "honey_bee_leggings_pollen_removal": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-01 02:31:57 +0000",
@@ -14360,12 +13642,6 @@
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_nether_gold_ore": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
-    "criteria": {
-      "consume_honey_crystal_shards": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -14563,13 +13839,6 @@
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/fish_rare_loot": {
-    "criteria": {
-      "fished_rare_loot_1": "2024-12-01 02:31:57 +0000",
-      "fished_rare_loot_2": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -15052,12 +14321,6 @@
     },
     "done": true
   },
-  "the_bumblezone:decor/extend_string_curtains": {
-    "criteria": {
-      "extend_string_curtain": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
@@ -15138,12 +14401,6 @@
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/warrior_bee": {
-    "criteria": {
-      "warrior_bee": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -15542,12 +14799,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
-    "criteria": {
-      "obtain_royal_jelly_bucket": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
@@ -15621,12 +14872,6 @@
     "criteria": {
       "has_canvas_sign": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
-    "criteria": {
-      "obtain_glistering_honey_crystal_block": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -15715,12 +14960,6 @@
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
-    "criteria": {
-      "enchant_crystalline_flower": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -16075,12 +15314,6 @@
     },
     "done": true
   },
-  "the_bumblezone:pollen_puff/pollen_puff_panda": {
-    "criteria": {
-      "pollen_puff_panda": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-01 02:31:57 +0000",
@@ -16287,12 +15520,6 @@
     "criteria": {
       "has_hanging_canvas_sign": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_crazy_florist": {
-    "criteria": {
-      "pollen_puff_spawn_flower": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -16770,12 +15997,6 @@
     },
     "done": true
   },
-  "the_bumblezone:the_queens_desire/love_bees": {
-    "criteria": {
-      "bee_breeding": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-01 02:31:57 +0000",
@@ -17029,12 +16250,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_slime/honey_slime_harvest": {
-    "criteria": {
-      "honey_slime_harvest": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/use_lodestone": {
     "criteria": {
       "use_lodestone": "2024-12-01 02:31:57 +0000"
@@ -17268,12 +16483,6 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/protection_of_the_hive_defense": {
-    "criteria": {
-      "protection_of_the_hive_defense": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2024-12-01 02:31:57 +0000",
@@ -17284,23 +16493,10 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "craft_honey_compass": "2024-12-01 02:31:57 +0000",
-      "obtain_honey_compass": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
-    "criteria": {
-      "teleport_out_of_bumblezone": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -17467,12 +16663,6 @@
     },
     "done": true
   },
-  "the_bumblezone:dirt_pellet/dirt_pellet_kill_phantom": {
-    "criteria": {
-      "killed_phantom": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2024-12-01 02:31:57 +0000",
@@ -17595,12 +16785,6 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/cleanup_honey_web": {
-    "criteria": {
-      "cleanup_honey_web": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-12-01 02:31:57 +0000",
@@ -17626,19 +16810,6 @@
       "has_white_dye": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000",
       "has_warped_planks": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/obtain_all_banner_patterns": {
-    "criteria": {
-      "banner_pattern_eyes": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_honeycombs": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_swords": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_arrows": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_bee": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_sun": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_pluses": "2024-12-01 02:31:57 +0000",
-      "banner_pattern_peace": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -17682,24 +16853,6 @@
     },
     "done": true
   },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "floral_meadow": "2024-12-01 02:31:57 +0000",
-      "pollinated_pillar": "2024-12-01 02:31:57 +0000",
-      "crystal_canyon": "2024-12-01 02:31:57 +0000",
-      "sugar_water_floor": "2024-12-01 02:31:57 +0000",
-      "hive_pillar": "2024-12-01 02:31:57 +0000",
-      "hive_wall": "2024-12-01 02:31:57 +0000",
-      "pollinated_fields": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
-    "criteria": {
-      "obtain_honey_crystal_block": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
     "criteria": {
       "has_light_blue_dye": "2024-12-01 02:31:57 +0000",
@@ -17722,12 +16875,6 @@
     },
     "done": true
   },
-  "the_bumblezone:essence/essence_raging": {
-    "criteria": {
-      "essence_raging": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-01 02:31:57 +0000",
@@ -17746,27 +16893,6 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-01 01:54:06 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/journeys_end": {
-    "criteria": {
-      "target_advancement_done_4": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_5": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_6": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_7": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_1": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_2": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_3": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_16": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_15": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_8": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_12": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_9": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_11": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_14": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_13": "2024-12-01 02:31:57 +0000",
-      "target_advancement_done_10": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -17932,12 +17058,6 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-01 02:31:57 +0000",
@@ -17968,44 +17088,6 @@
     "criteria": {
       "has_oxidized_cut_copper": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/craft_string_curtain_recipe": {
-    "criteria": {
-      "string_curtain_recipe_yellow2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_green2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_cyan": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_orange": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_pink": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_blue": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_light_blue2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_magenta2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_orange2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_magenta": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_black": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_red2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_white_redundant": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_purple2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_white2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_cyan2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_pink2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_gray2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_brown": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_light_gray": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_yellow": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_black2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_purple": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_light_blue": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_light_gray2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_lime2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_lime": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_green": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_brown2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_white": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_blue2": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_gray": "2024-12-01 02:31:57 +0000",
-      "string_curtain_recipe_red": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
@@ -18279,12 +17361,6 @@
       "has_pink_dye": "2024-12-01 02:31:57 +0000",
       "has_wooden_kitchen_drawers": "2024-12-01 02:31:57 +0000",
       "has_the_recipe": "2024-12-01 02:31:57 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/craft_beeswax_to_beehive": {
-    "criteria": {
-      "craft_beeswax_to_beehive": "2024-12-01 02:31:57 +0000"
     },
     "done": true
   },
