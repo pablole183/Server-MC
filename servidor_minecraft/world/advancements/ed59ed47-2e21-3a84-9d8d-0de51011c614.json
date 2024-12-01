@@ -34,6 +34,7 @@
       "minecraft:river": "2024-12-01 01:43:47 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:58:38 +0000",
       "minecraft:forest": "2024-12-01 00:42:11 +0000",
+      "minecraft:deep_dark": "2024-12-01 02:24:06 +0000",
       "minecraft:meadow": "2024-12-01 00:42:33 +0000",
       "minecraft:plains": "2024-12-01 00:44:10 +0000"
     },
@@ -204,6 +205,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2024-12-01 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 02:22:59 +0000"
     },
     "done": true
   },
@@ -435,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
@@ -444,6 +457,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
     },
     "done": true
   },
@@ -891,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
@@ -912,6 +937,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
     },
     "done": true
   },
@@ -942,6 +973,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 02:22:41 +0000"
     },
     "done": true
   },
@@ -1041,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
@@ -1122,6 +1165,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-01 01:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 02:22:41 +0000"
     },
     "done": true
   },
@@ -1485,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-01 01:54:41 +0000"
@@ -1548,6 +1603,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-01 01:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-01 02:24:16 +0000"
     },
     "done": true
   },
@@ -1626,6 +1687,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2024-12-01 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
     },
     "done": true
   },
@@ -1805,7 +1872,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-01 01:58:45 +0000"
+      "apple": "2024-12-01 01:58:45 +0000",
+      "bread": "2024-12-01 02:17:18 +0000",
+      "rotten_flesh": "2024-12-01 02:18:34 +0000"
     },
     "done": false
   },
@@ -2019,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-01 02:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-01 01:44:15 +0000"
@@ -2046,6 +2121,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 01:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-01 02:17:22 +0000"
     },
     "done": true
   },
