@@ -176,3 +176,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 03:28:57.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
 [01Dec2024 03:29:32.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 238 block(s)]
 [01Dec2024 03:29:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[01Dec2024 03:40:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1395 block(s)]
+[01Dec2024 03:41:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 156 block(s)]
+[01Dec2024 03:42:23.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[01Dec2024 03:44:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the weather to clear]

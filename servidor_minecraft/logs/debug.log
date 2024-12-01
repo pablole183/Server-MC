@@ -2106,3 +2106,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 03:29:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
 [01Dec2024 03:33:45.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 03:33:45.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:38:45.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:38:45.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:40:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1395 block(s)]
+[01Dec2024 03:41:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 156 block(s)]
+[01Dec2024 03:42:23.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[01Dec2024 03:43:15.744] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Dec2024 03:43:45.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:43:45.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:44:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the weather to clear]
