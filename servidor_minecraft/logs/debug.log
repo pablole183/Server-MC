@@ -3217,3 +3217,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 03:07:12.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 03:12:12.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 03:12:12.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:14:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[01Dec2024 03:16:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1296 block(s)]
+[01Dec2024 03:16:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3168 block(s)]
+[01Dec2024 03:16:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3167 block(s)]
+[01Dec2024 03:16:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 3403 block(s)]
+[01Dec2024 03:17:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Successfully filled 1714 block(s)]
+[01Dec2024 03:17:12.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:17:12.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:17:16.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -3.3615935886563193,4.124999737399975,8.622336022927271
+[01Dec2024 03:17:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[01Dec2024 03:17:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the weather to clear]
+[01Dec2024 03:22:12.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:22:12.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
