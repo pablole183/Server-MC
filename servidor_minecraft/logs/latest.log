@@ -1021,3 +1021,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 02:41:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was doomed to fall
 [01Dec2024 02:41:17.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Tremorzilla]
 [01Dec2024 02:41:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:42:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was shot by Skeleton
+[01Dec2024 02:44:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was blown up by Creeper
+[01Dec2024 02:44:59.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO lost connection: Disconnected
+[01Dec2024 02:44:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO left the game
