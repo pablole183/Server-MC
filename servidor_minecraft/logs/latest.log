@@ -210,3 +210,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Dec2024 01:59:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Acquire Hardware]
 [01Dec2024 01:59:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Suit Up]
 [01Dec2024 02:00:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [It Belongs in a Museum]
+[01Dec2024 02:06:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Lorem Ipsum]
+[01Dec2024 02:07:21.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was slain by Zombie
+[01Dec2024 02:07:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:08:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Monster Hunter]
+[01Dec2024 02:09:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Monster Hunter]
+[01Dec2024 02:09:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:10:16.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Stone Age]
+[01Dec2024 02:12:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Isn't It Iron Pick]
+[01Dec2024 02:13:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
+[01Dec2024 02:13:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:15:05.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO has made the advancement [Acquire Hardware]
+[01Dec2024 02:15:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
+[01Dec2024 02:15:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 fell from a high place
+[01Dec2024 02:16:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 has made the advancement [Isn't It Iron Pick]
+[01Dec2024 02:16:52.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:19:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[01Dec2024 02:19:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[01Dec2024 02:19:21.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was blown up by Creeper
+[01Dec2024 02:19:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[01Dec2024 02:21:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
