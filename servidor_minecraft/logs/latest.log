@@ -249,3 +249,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 23:07:20.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
 [02Dec2024 23:07:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
 [02Dec2024 23:07:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:07:58.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:07:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:08:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:09:28.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:09:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:10:38.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.695356366807232,11.656648591856595,22.6666280677413
+[02Dec2024 23:10:38.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 4.465888259607311,68.10382047243105,-4.954687332317434
+[02Dec2024 23:10:38.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.814753792845522,11.716903017776957,22.564129537137347
+[02Dec2024 23:10:39.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:39.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:39.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:39.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:40.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:40.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 2.3813777597304693,35.28582289794292,-2.5481579602352724
+[02Dec2024 23:10:40.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 20.79785885013385,11.716903017776957,22.574065376666283
+[02Dec2024 23:10:48.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
+[02Dec2024 23:11:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:13:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:13:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:17:09.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was zapped with a raygun by Pablo1818
+[02Dec2024 23:17:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:17:21.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:17:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
