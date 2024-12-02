@@ -278,3 +278,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 23:23:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
 [02Dec2024 23:24:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
 [02Dec2024 23:25:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:33:56.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
+[02Dec2024 23:34:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:38:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
+[02Dec2024 23:39:39.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
+[02Dec2024 23:42:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
+[02Dec2024 23:43:09.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -2.5014642535518306,15.624461885790453,22.031474752427016
+[02Dec2024 23:43:10.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO didn't duck and cover
+[02Dec2024 23:44:05.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:45:47.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO fell from a high place
+[02Dec2024 23:45:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:47:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO became death, the destroyer of worlds
+[02Dec2024 23:47:50.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -22.93142341227741,51.40235290844814,-3.8326701177080906
