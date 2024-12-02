@@ -2262,3 +2262,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 22:22:47.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 22:25:16.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
 [02Dec2024 22:26:13.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 22:27:47.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:27:47.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:30:23.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:30:26.086] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -1155 -56 -1087 in 1s
+[02Dec2024 22:30:38.046] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[02Dec2024 22:30:38.233] [Worker-Main-11/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Dec2024 22:30:38.234] [Worker-Main-11/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Dec2024 22:30:38.235] [Worker-Main-11/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Dec2024 22:30:38.237] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Dec2024 22:30:38.731] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Dec2024 22:30:38.732] [Worker-Main-12/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Dec2024 22:30:38.740] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Dec2024 22:30:38.748] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Dec2024 22:30:38.748] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Dec2024 22:30:40.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
+[02Dec2024 22:30:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 22:30:56.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:31:09.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5096ms or 101 ticks behind
+[02Dec2024 22:31:13.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 22:31:32.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:32:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 22:32:41.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:32:56.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:32:56.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:33:03.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 22:35:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 22:36:01.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:36:08.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
