@@ -240,3 +240,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 22:55:50.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d22e765[id=<null>,name=ImNajimiOwO,properties={},legacy=false] (/100.95.176.15:58453) lost connection: Took too long to log in
 [02Dec2024 22:55:50.852] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [02Dec2024 22:56:21.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:01:45.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:58484] logged in with entity id 19668 at (-1275.300000011921, -11.0, -1233.067604113796)
+[02Dec2024 23:01:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
+[02Dec2024 23:02:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:06:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:06:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:06:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:07:20.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:07:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:07:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
