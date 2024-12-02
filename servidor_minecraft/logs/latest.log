@@ -204,3 +204,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 22:44:32.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
 [02Dec2024 22:45:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
 [02Dec2024 22:46:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:47:48.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Dec2024 22:47:52.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved wrongly!
+[02Dec2024 22:49:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 22:50:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:50:28.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[02Dec2024 22:50:32.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved wrongly!
+[02Dec2024 22:50:32.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved wrongly!
+[02Dec2024 22:50:33.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved wrongly!
+[02Dec2024 22:50:33.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved wrongly!
+[02Dec2024 22:50:47.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
+[02Dec2024 22:51:31.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO lost connection: Disconnected
+[02Dec2024 22:51:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO left the game
+[02Dec2024 22:51:57.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:58448] logged in with entity id 12704 at (-1277.5068276756938, 3.0, -1234.2193435026934)
+[02Dec2024 22:51:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
+[02Dec2024 22:52:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[02Dec2024 22:52:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 22:52:37.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 22:53:21.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 22:53:39.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 14.064809900366981,4.315935621797907,-12.592079696438532
+[02Dec2024 22:53:39.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 14.08465855024815,4.352967138959634,-12.674416939114735
+[02Dec2024 22:53:40.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 29.08465855024815,4.352967138959634,-12.676872765115831
+[02Dec2024 22:53:40.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 30.693372555192127,4.352967138959634,-12.676872765115831
+[02Dec2024 22:53:41.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! 30.693372555192127,4.352967138959634,-12.676872765115831
+[02Dec2024 22:53:44.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 0.0,39.365263962521226,-31.92428807386159
+[02Dec2024 22:53:44.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[02Dec2024 22:53:44.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 0.0,25.757428573269717,-18.83664082456926
+[02Dec2024 22:53:58.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO lost connection: Disconnected
+[02Dec2024 22:53:58.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO left the game
+[02Dec2024 22:54:49.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49654bbe[id=<null>,name=ImNajimiOwO,properties={},legacy=false] (/100.95.176.15:58452) lost connection: Disconnected
+[02Dec2024 22:55:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 22:55:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[02Dec2024 22:55:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 22:55:50.805] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5d22e765[id=<null>,name=ImNajimiOwO,properties={},legacy=false] (/100.95.176.15:58453): Took too long to log in
+[02Dec2024 22:55:50.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d22e765[id=<null>,name=ImNajimiOwO,properties={},legacy=false] (/100.95.176.15:58453) lost connection: Took too long to log in
+[02Dec2024 22:55:50.852] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 22:56:21.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
