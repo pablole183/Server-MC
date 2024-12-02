@@ -272,3 +272,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 23:17:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
 [02Dec2024 23:17:21.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
 [02Dec2024 23:17:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:21:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:21:16.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:21:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:23:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[02Dec2024 23:24:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:25:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
