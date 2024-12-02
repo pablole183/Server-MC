@@ -1,32 +1,32 @@
-[02Dec2024 02:45:14.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[02Dec2024 02:45:14.561] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[02Dec2024 02:45:15.650] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Dec2024 02:45:15.712] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Dec2024 02:45:16.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 02:45:16.032] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 02:45:16.033] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 02:45:16.034] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Dec2024 02:45:16.266] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-MC/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[02Dec2024 02:45:16.267] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[02Dec2024 02:45:18.503] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Dec2024 02:45:18.523] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[02Dec2024 02:45:18.637] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[02Dec2024 02:45:18.731] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 02:45:18.860] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 02:45:18.860] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 02:45:18.878] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Dec2024 02:45:20.613] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[02Dec2024 02:45:23.955] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[02Dec2024 02:45:29.199] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfa000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[02Dec2024 02:45:30.253] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[02Dec2024 22:06:53.073] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[02Dec2024 22:06:53.077] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Dec2024 22:06:54.031] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Dec2024 22:06:54.107] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Dec2024 22:06:54.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 22:06:54.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 22:06:54.448] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 22:06:54.449] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Dec2024 22:06:54.659] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-MC/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[02Dec2024 22:06:54.659] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[02Dec2024 22:06:56.836] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Dec2024 22:06:56.851] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[02Dec2024 22:06:56.970] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[02Dec2024 22:06:57.061] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 22:06:57.186] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 22:06:57.187] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 22:06:57.198] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Dec2024 22:06:59.030] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[02Dec2024 22:07:03.456] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[02Dec2024 22:07:08.475] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfa000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02Dec2024 22:07:09.364] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[02Dec2024 02:45:30.931] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[02Dec2024 02:45:30.943] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[02Dec2024 02:45:30.956] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[02Dec2024 02:45:30.959] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[02Dec2024 02:45:30.966] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[02Dec2024 02:45:30.985] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7e83992 on thread Thread[#32,modloading-worker-0,5,main]
-[02Dec2024 02:45:30.985] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[02Dec2024 22:07:10.058] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[02Dec2024 22:07:10.063] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[02Dec2024 22:07:10.098] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[02Dec2024 22:07:10.099] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[02Dec2024 22:07:10.101] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[02Dec2024 22:07:10.158] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4364863 on thread Thread[#34,modloading-worker-0,5,main]
+[02Dec2024 22:07:10.158] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -70,18 +70,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[02Dec2024 02:45:30.989] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[02Dec2024 02:45:31.427] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[02Dec2024 02:45:31.755] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[02Dec2024 02:45:32.194] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Dec2024 02:45:32.194] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Dec2024 02:45:37.320] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[02Dec2024 02:45:37.450] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[02Dec2024 02:45:37.451] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[02Dec2024 02:45:37.451] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[02Dec2024 02:45:38.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[02Dec2024 02:45:38.517] [main/INFO] [journeymap/]: Initializing Packet Registries
-[02Dec2024 02:45:38.537] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Dec2024 22:07:10.171] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[02Dec2024 22:07:10.602] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[02Dec2024 22:07:10.828] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[02Dec2024 22:07:11.016] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Dec2024 22:07:11.016] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Dec2024 22:07:15.602] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[02Dec2024 22:07:15.741] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[02Dec2024 22:07:15.742] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[02Dec2024 22:07:15.747] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[02Dec2024 22:07:16.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[02Dec2024 22:07:17.151] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Dec2024 22:07:17.183] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -96,21 +96,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[02Dec2024 02:45:38.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[02Dec2024 02:45:38.569] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[02Dec2024 02:45:38.570] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[02Dec2024 02:45:38.571] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[02Dec2024 02:45:38.573] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[02Dec2024 02:45:38.658] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[02Dec2024 02:45:38.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[02Dec2024 02:45:38.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[02Dec2024 02:45:39.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
-[02Dec2024 02:45:39.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[02Dec2024 02:45:39.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
-[02Dec2024 02:45:39.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Dec2024 02:45:39.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[02Dec2024 02:45:39.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[02Dec2024 02:45:39.616] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Dec2024 22:07:17.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Dec2024 22:07:17.214] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[02Dec2024 22:07:17.214] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[02Dec2024 22:07:17.214] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[02Dec2024 22:07:17.216] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[02Dec2024 22:07:17.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[02Dec2024 22:07:17.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[02Dec2024 22:07:17.323] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[02Dec2024 22:07:17.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
+[02Dec2024 22:07:17.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[02Dec2024 22:07:17.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[02Dec2024 22:07:17.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Dec2024 22:07:18.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[02Dec2024 22:07:18.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[02Dec2024 22:07:18.427] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -125,154 +125,52 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[02Dec2024 02:45:41.795] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Dec2024 02:45:43.705] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[02Dec2024 02:45:43.705] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[02Dec2024 02:45:47.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[02Dec2024 02:45:47.147] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
-[02Dec2024 02:45:47.165] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[02Dec2024 02:45:47.172] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[02Dec2024 02:45:49.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Dec2024 02:45:49.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Dec2024 02:45:49.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Dec2024 02:45:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Dec2024 02:45:49.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Dec2024 02:45:49.242] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Dec2024 02:45:49.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Dec2024 02:45:49.318] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Dec2024 02:45:49.318] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Dec2024 02:45:49.318] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Dec2024 02:45:49.334] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Dec2024 02:45:49.335] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Dec2024 02:45:49.336] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Dec2024 02:45:49.388] [Server thread/INFO] [Framework/]: Loading server configs...
-[02Dec2024 02:45:49.402] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[02Dec2024 02:45:49.402] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[02Dec2024 02:45:49.590] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[02Dec2024 02:45:49.590] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[02Dec2024 02:45:49.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Dec2024 02:46:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Dec2024 02:46:04.021] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.075] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.088] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.115] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.133] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.149] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.960] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:04.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:05.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:05.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Dec2024 02:46:06.304] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[02Dec2024 02:46:06.830] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[02Dec2024 02:46:07.044] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6741 ms
-[02Dec2024 02:46:07.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.714s)! For help, type "help"
-[02Dec2024 02:46:07.086] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Dec2024 02:46:24.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:50024] logged in with entity id 132 at (-254.59074310276011, 108.0, -159.5529910496484)
-[02Dec2024 02:46:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[02Dec2024 02:46:42.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 8.073216996877505,3.749834333525669,-5.376107267547553
-[02Dec2024 02:47:09.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Timed out
-[02Dec2024 02:47:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
-[02Dec2024 02:48:37.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a2b2ae[id=<null>,name=Pablo1818,properties={},legacy=false] (/100.111.11.103:50381) lost connection: Disconnected
-[02Dec2024 02:48:43.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:50382] logged in with entity id 484 at (-245.03210942835867, 129.62380631818124, -194.55987554542483)
-[02Dec2024 02:48:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[02Dec2024 02:48:57.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 6.8756632141571,0.32263516247563473,-8.026364198405929
-[02Dec2024 02:50:40.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:54083] logged in with entity id 1034 at (3.5, 103.0, -8.5)
-[02Dec2024 02:50:40.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
-[02Dec2024 02:51:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 02:52:18.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 2.1315243716815644,0.0,10.219637410285543
-[02Dec2024 02:52:20.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 9.988563545888553,0.0,-0.5150582034485467
-[02Dec2024 02:52:22.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 9.72476486649171,0.0,-4.061831648936874
-[02Dec2024 02:53:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
-[02Dec2024 02:54:05.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
-[02Dec2024 02:58:54.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 02:58:59.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 02:59:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 02:59:25.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:00:22.517] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 4388 -56 -3572 in 1s
-[02Dec2024 03:00:39.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 6.933296013836184,0.0,-8.30484302825738
-[02Dec2024 03:00:42.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 6.707639285514915,0.0,-8.221644192228212
-[02Dec2024 03:00:44.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 7.942292716713041,0.0,-7.46501815549442
-[02Dec2024 03:00:47.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 7.103916492744773,0.0,-8.09230831343831
-[02Dec2024 03:00:49.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 6.256290985307459,0.0,-8.190975413912781
-[02Dec2024 03:00:50.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 5.783155174870757,0.0,-8.632776313384738
-[02Dec2024 03:01:07.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -7.335389986193391,0.0,7.914173626050967
-[02Dec2024 03:01:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -7.211707859035755,0.0,7.8518747073446775
-[02Dec2024 03:01:11.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -7.23946606022875,0.0,7.882096940708607
-[02Dec2024 03:01:15.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -6.636892163241896,0.0,8.553192895270968
-[02Dec2024 03:01:56.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
-[02Dec2024 03:02:18.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:02:31.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 5.283928718345749,1.8213915700109737,-9.445583639247843
-[02Dec2024 03:02:36.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 6.406746737682283,0.0,-8.799323160434255
-[02Dec2024 03:02:59.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Timed out
-[02Dec2024 03:02:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
-[02Dec2024 03:03:47.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:50807] logged in with entity id 4760 at (491.98208091667595, 92.67932370224369, -782.0631370032766)
-[02Dec2024 03:03:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[02Dec2024 03:04:07.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
-[02Dec2024 03:04:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:05:03.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
-[02Dec2024 03:05:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:05:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:05:26.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:05:52.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5427ms or 108 ticks behind
-[02Dec2024 03:06:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:06:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:06:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:07:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
-[02Dec2024 03:07:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:07:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:09:37.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Timed out
-[02Dec2024 03:09:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
-[02Dec2024 03:10:25.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:51163] logged in with entity id 7657 at (4672.16237575876, 102.17675927506424, -3502.714000589909)
-[02Dec2024 03:10:25.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[02Dec2024 03:10:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:10:52.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:12:56.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Timed out
-[02Dec2024 03:12:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
-[02Dec2024 03:14:27.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:52056] logged in with entity id 8422 at (4625.934640039035, 73.17675927506424, -3496.6124969323137)
-[02Dec2024 03:14:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
-[02Dec2024 03:14:44.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:14:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:15:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[02Dec2024 03:17:10.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[02Dec2024 03:19:14.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:19:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:19:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:19:56.683] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 5824 -56 -6096 in 0s
-[02Dec2024 03:20:27.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
-[02Dec2024 03:20:32.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:20:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:21:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
-[02Dec2024 03:22:33.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
-[02Dec2024 03:22:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[02Dec2024 03:22:54.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:23:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:23:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:24:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:24:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:24:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
-[02Dec2024 03:28:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:29:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:31:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
-[02Dec2024 03:31:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:32:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:33:21.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Creative Mode]
-[02Dec2024 03:33:23.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:36:56.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set ImNajimiOwO's game mode to Survival Mode]
-[02Dec2024 03:37:00.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:37:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:37:24.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was cursed by Maledictus
-[02Dec2024 03:37:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[02Dec2024 03:37:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:38:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:38:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Maledictus]
-[02Dec2024 03:38:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
-[02Dec2024 03:39:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
-[02Dec2024 03:39:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:40:14.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO lost connection: Disconnected
-[02Dec2024 03:40:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO left the game
-[02Dec2024 03:40:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:42:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[02Dec2024 03:43:04.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[02Dec2024 03:43:37.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[02Dec2024 22:07:20.649] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Dec2024 22:07:22.986] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[02Dec2024 22:07:22.987] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[02Dec2024 22:07:27.188] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[02Dec2024 22:07:27.437] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
+[02Dec2024 22:07:27.448] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[02Dec2024 22:07:27.473] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Dec2024 22:07:30.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Dec2024 22:07:30.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Dec2024 22:07:30.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Dec2024 22:07:30.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Dec2024 22:07:30.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Dec2024 22:07:30.445] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Dec2024 22:07:30.554] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Dec2024 22:07:30.555] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Dec2024 22:07:30.555] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Dec2024 22:07:30.556] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Dec2024 22:07:30.578] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 22:07:30.579] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 22:07:30.581] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Dec2024 22:07:30.638] [Server thread/INFO] [Framework/]: Loading server configs...
+[02Dec2024 22:07:30.663] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Dec2024 22:07:30.663] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Dec2024 22:07:30.669] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Dec2024 22:07:30.850] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Dec2024 22:07:30.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Dec2024 22:07:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Dec2024 22:07:44.868] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.892] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.897] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.904] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.911] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.938] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:44.956] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:45.490] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:46.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Dec2024 22:07:46.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[02Dec2024 22:07:46.911] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[02Dec2024 22:07:47.402] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6991 ms
+[02Dec2024 22:07:47.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.831s)! For help, type "help"
+[02Dec2024 22:07:47.437] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Dec2024 22:11:49.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:50497] logged in with entity id 103 at (-279.49828134045686, 108.0, -158.85869243585884)
+[02Dec2024 22:11:49.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
+[02Dec2024 22:12:10.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set the time to 1000]
+[02Dec2024 22:13:59.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:58356] logged in with entity id 668 at (10.485729345984627, 100.0, -2.858690953707492)
+[02Dec2024 22:13:59.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
