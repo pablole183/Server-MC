@@ -2772,3 +2772,86 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Dec2024 23:47:50.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -22.93142341227741,51.40235290844814,-3.8326701177080906
 [02Dec2024 23:48:05.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 23:48:05.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 23:48:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:48:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO tried to swim in lava
+[02Dec2024 23:49:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:49:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was atomized
+[02Dec2024 23:49:48.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -8.93332152263116,21.748750736550434,4.677478193667611
+[02Dec2024 23:49:49.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -9.029752418770045,21.748750736550434,4.694944808991011
+[02Dec2024 23:49:49.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -9.029752418770045,21.748750736550434,4.694944808991011
+[02Dec2024 23:49:50.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -9.029752418770045,21.748750736550434,4.694944808991011
+[02Dec2024 23:49:50.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! -9.029752418770045,21.748750736550434,4.694944808991011
+[02Dec2024 23:50:07.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:07.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:10.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:15.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:15.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:16.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO was killed
+[02Dec2024 23:50:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:50:20.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed ImNajimiOwO]
+[02Dec2024 23:51:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported Pablo1818 to ImNajimiOwO]
+[02Dec2024 23:52:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:52:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[02Dec2024 23:53:05.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 23:53:05.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 23:53:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:53:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:53:27.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[02Dec2024 23:54:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[02Dec2024 23:54:14.145] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -2343 -56 -4928 in 1s
+[02Dec2024 23:54:27.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[02Dec2024 23:54:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:54:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:54:59.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[02Dec2024 23:55:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:55:07.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:55:09.426] [Server thread/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[02Dec2024 23:55:33.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3717ms or 74 ticks behind
+[02Dec2024 23:55:34.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 moved too quickly! 0.0,-10.728126108483131,0.0
+[02Dec2024 23:55:50.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:55:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:56:31.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4240ms or 84 ticks behind
+[02Dec2024 23:56:31.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNajimiOwO moved too quickly! -5.687356516190391,3.0,7.716780849620683
+[02Dec2024 23:57:06.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
+[02Dec2024 23:57:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:57:15.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:57:33.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4892ms or 97 ticks behind
+[02Dec2024 23:57:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:57:41.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:57:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[02Dec2024 23:58:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[02Dec2024 23:58:29.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 23:58:29.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 23:58:29.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[02Dec2024 23:58:31.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Teleported ImNajimiOwO to Pablo1818]
+[03Dec2024 00:00:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
+[03Dec2024 00:00:32.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:01:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[03Dec2024 00:01:44.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:01:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:02:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:02:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:03:15.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[03Dec2024 00:03:29.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:03:29.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:05:47.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.717041015625
+[03Dec2024 00:05:47.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.7073395105871896
+[03Dec2024 00:05:47.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.6997335305240995
+[03Dec2024 00:08:28.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:08:29.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:13:29.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:13:29.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:15:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:15:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:16:01.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:16:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:18:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
