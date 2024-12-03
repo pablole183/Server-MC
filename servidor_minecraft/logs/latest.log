@@ -1,16 +1,261 @@
-[03Dec2024 00:00:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Spectator Mode]
-[03Dec2024 00:00:32.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[03Dec2024 00:01:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
-[03Dec2024 00:01:44.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[03Dec2024 00:01:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[03Dec2024 00:02:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[03Dec2024 00:02:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[03Dec2024 00:03:15.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
-[03Dec2024 00:05:47.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.717041015625
-[03Dec2024 00:05:47.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.7073395105871896
-[03Dec2024 00:05:47.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Pablo1818) moved wrongly! 0.6997335305240995
-[03Dec2024 00:15:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[03Dec2024 00:15:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[03Dec2024 00:16:01.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
-[03Dec2024 00:16:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
-[03Dec2024 00:18:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:38:41.760] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03Dec2024 00:38:41.763] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Dec2024 00:38:42.233] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Dec2024 00:38:42.303] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Dec2024 00:38:42.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 00:38:42.669] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 00:38:42.671] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 00:38:42.672] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 00:38:42.854] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-MC/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[03Dec2024 00:38:42.854] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[03Dec2024 00:38:44.694] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Dec2024 00:38:44.705] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[03Dec2024 00:38:44.789] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Dec2024 00:38:44.851] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 00:38:44.972] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 00:38:44.973] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 00:38:44.983] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 00:38:46.346] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03Dec2024 00:38:48.873] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[03Dec2024 00:38:51.432] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfa000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Dec2024 00:38:52.300] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[03Dec2024 00:38:52.786] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[03Dec2024 00:38:52.801] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[03Dec2024 00:38:52.812] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[03Dec2024 00:38:52.818] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[03Dec2024 00:38:52.822] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[03Dec2024 00:38:52.864] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@4364863 on thread Thread[#34,modloading-worker-0,5,main]
+[03Dec2024 00:38:52.864] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2394) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2505) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:361) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:286) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:221) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:316) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:274) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:264) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23152!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23152!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23152!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23152!/:com.obscuria]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23169!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23168!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[03Dec2024 00:38:52.866] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[03Dec2024 00:38:53.314] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[03Dec2024 00:38:53.591] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Dec2024 00:38:53.798] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Dec2024 00:38:53.803] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Dec2024 00:38:57.391] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[03Dec2024 00:38:57.498] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[03Dec2024 00:38:57.499] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[03Dec2024 00:38:57.504] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[03Dec2024 00:38:57.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[03Dec2024 00:38:58.085] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23168!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23168!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[03Dec2024 00:38:58.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Dec2024 00:38:58.106] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Dec2024 00:38:58.133] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[03Dec2024 00:38:58.133] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[03Dec2024 00:38:58.134] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[03Dec2024 00:38:58.135] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[03Dec2024 00:38:58.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[03Dec2024 00:38:58.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[03Dec2024 00:38:58.218] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[03Dec2024 00:38:58.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
+[03Dec2024 00:38:58.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Dec2024 00:38:58.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[03Dec2024 00:38:58.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Dec2024 00:38:59.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[03Dec2024 00:38:59.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[03Dec2024 00:38:59.085] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23168!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23168!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[03Dec2024 00:39:00.796] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Dec2024 00:39:02.681] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[03Dec2024 00:39:02.681] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[03Dec2024 00:39:05.935] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[03Dec2024 00:39:06.145] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2633 advancements
+[03Dec2024 00:39:06.154] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Dec2024 00:39:06.160] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[03Dec2024 00:39:07.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Dec2024 00:39:07.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Dec2024 00:39:08.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Dec2024 00:39:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Dec2024 00:39:08.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Dec2024 00:39:08.153] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Dec2024 00:39:08.237] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Dec2024 00:39:08.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Dec2024 00:39:08.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Dec2024 00:39:08.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Dec2024 00:39:08.254] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 00:39:08.259] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 00:39:08.310] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Dec2024 00:39:08.328] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Dec2024 00:39:08.329] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Dec2024 00:39:08.333] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Dec2024 00:39:08.404] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Dec2024 00:39:08.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Dec2024 00:39:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Dec2024 00:39:22.008] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.009] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.010] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.010] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.013] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.014] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.014] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.016] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.016] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.016] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.017] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.018] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 00:39:22.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[03Dec2024 00:39:23.112] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10009 ms
+[03Dec2024 00:39:23.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.863s)! For help, type "help"
+[03Dec2024 00:39:23.118] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Dec2024 00:39:23.184] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Dec2024 00:39:56.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fe3fad1[id=<null>,name=Pablo1818,properties={},legacy=false] (/100.111.11.103:51299) lost connection: Disconnected
+[03Dec2024 00:40:01.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNajimiOwO[/100.95.176.15:58913] logged in with entity id 102 at (-2362.2201138685828, -59.0, -4590.968860652335)
+[03Dec2024 00:40:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNajimiOwO joined the game
+[03Dec2024 00:40:02.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:51305] logged in with entity id 103 at (-2391.268604866917, -27.0, -4605.118703344276)
+[03Dec2024 00:40:03.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
+[03Dec2024 00:40:03.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Dec2024 00:43:43.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:44:31.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:44:37.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:40.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:42.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:44.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:45.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:47.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:49.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:49.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:50.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:58.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:44:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:00.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:00.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:01.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:02.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:04.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:05.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:09.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:12.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:13.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:15.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:19.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:19.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:23.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:45:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:45:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:45:51.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:46:33.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 was killed
+[03Dec2024 00:46:33.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Killed Pablo1818]
+[03Dec2024 00:46:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:47:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:47:46.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:47:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:47:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:47:59.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:48:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:48:55.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:49:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from Pablo1818]
+[03Dec2024 00:51:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:51:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[03Dec2024 00:51:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
+[03Dec2024 00:52:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Creative Mode]
+[03Dec2024 00:52:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Removed effect Irradiated from 2 targets]
+[03Dec2024 00:52:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pablo1818: Set own game mode to Survival Mode]
