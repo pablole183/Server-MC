@@ -175,3 +175,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Dec2024 19:52:55.898] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10577 ms
 [15Dec2024 19:52:55.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.034s)! For help, type "help"
 [15Dec2024 19:52:55.944] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Dec2024 20:03:36.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bdfdb18[id=<null>,name=Pablo1818,properties={},legacy=false] (/100.111.11.103:62831) lost connection: Disconnected
+[15Dec2024 20:03:48.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pablo1818[/100.111.11.103:62832] logged in with entity id 141 at (-3.5, 95.0, -1.5)
+[15Dec2024 20:03:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 joined the game
+[15Dec2024 20:05:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 was blown up by Creeper
+[15Dec2024 20:05:38.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablo1818 lost connection: Disconnected
+[15Dec2024 20:05:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pablo1818 left the game
